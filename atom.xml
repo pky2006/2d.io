@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>Gridea</title>
-    <updated>2021-02-01T06:18:51.033Z</updated>
+    <updated>2021-02-01T06:26:00.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -19,8 +19,11 @@
         <content type="html"><![CDATA[<h2 id="联系我">联系我</h2>
 <p><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1qy_o7e4saW_v72juJanp-i1ubs" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a></p>
 <h2 id="反映问题">反映问题</h2>
-<p>请用 <a href="https://github.com/pky2006/2d.io/issues" title="issue">issue</a> 反映问题，编辑会尽快处理。</p>
-<p>如果你有会写代码，希望改进这个网站，可以使用 <a href="https://github.com/pky2006/2d.io/pulls" title="拉取请求">pull request</a></p>
+<p>请用 <a href="https://github.com/pky2006/2d.io/issues" title="issue">issue</a> 反映问题，编辑会尽快处理。<br>
+使用方法参见：<a href="https://gitee.com/gitee-community/opensource-guide/blob/master/%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86%EF%BC%9A%E5%B0%9D%E8%AF%95%E5%8F%82%E4%B8%8E%E5%BC%80%E6%BA%90/%E7%AC%AC%206%20%E5%B0%8F%E8%8A%82%EF%BC%9A%E6%8F%90%E4%BA%A4%E7%AC%AC%E4%B8%80%E4%B8%AA%20Issue.md" title="第三部分：尝试参与开源/第 6 小节：提交第一个 Issue.md · Gitee/开源指北 - 码云 - 开源中国">第三部分：尝试参与开源/第 6 小节：提交第一个 Issue.md · Gitee/开源指北 - 码云 - 开源中国</a><br>
+由于 Issue 是基于 Markdown 语法，普通操作可以无需使用，如要使用高级操作，可以参照：<a href="https://www.yuque.com/u1026396/alex/grl78c" title="Markdown 入门・语雀">Markdown 入门・语雀</a></p>
+<p>如果你有会写代码，希望改进这个网站，可以使用 <a href="https://github.com/pky2006/2d.io/pulls" title="拉取请求">pull request</a>。<br>
+使用方法参见：<a href="https://gitee.com/gitee-community/opensource-guide/blob/master/%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86%EF%BC%9A%E5%B0%9D%E8%AF%95%E5%8F%82%E4%B8%8E%E5%BC%80%E6%BA%90/%E7%AC%AC%207%20%E5%B0%8F%E8%8A%82%EF%BC%9A%E6%8F%90%E4%BA%A4%E7%AC%AC%E4%B8%80%E4%B8%AA%20Pull%20Request.md" title="第三部分：尝试参与开源/第 7 小节：提交第一个 Pull Request.md · Gitee/开源指北 - Gitee.com">第三部分：尝试参与开源/第 7 小节：提交第一个 Pull Request.md · Gitee/开源指北 - Gitee.com</a></p>
 <h2 id="与大家沟通">与大家沟通</h2>
 <p>请在 <a href="https://github.com/pky2006/2d.io/discussions" title="discussions">讨论</a>  与大家讨论。</p>
 ]]></content>
