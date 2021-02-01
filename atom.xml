@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>Gridea</title>
-    <updated>2021-02-01T05:41:22.883Z</updated>
+    <updated>2021-02-01T05:56:08.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://pky2006.github.io/2d.io/images/avatar.png</logo>
     <icon>https://pky2006.github.io/2d.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[使用指南💯]]></title>
+        <id>https://pky2006.github.io/2d.io/shi-yong-zhi-nan/</id>
+        <link href="https://pky2006.github.io/2d.io/shi-yong-zhi-nan/">
+        </link>
+        <updated>2021-02-01T05:49:10.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="联系我">联系我</h2>
+<p><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1qy_o7e4saW_v72juJanp-i1ubs" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a></p>
+<h2 id="反映问题">反映问题</h2>
+<p>请用 [issue]('https://github.com/pky2006/2d.io/issues' issue) 反映问题，编辑会尽快处理。</p>
+<h2 id="与大家沟通">与大家沟通</h2>
+<pre><code>请在 [讨论]('https://github.com/pky2006/2d.io/discussions' discussions) 与大家讨论。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://pky2006.github.io/2d.io/about/</id>
