@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-01T09:44:48.922Z</updated>
+    <updated>2021-02-01T10:21:06.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://pky2006.github.io/2d.io/images/avatar.png</logo>
     <icon>https://pky2006.github.io/2d.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 2D</rights>
+    <entry>
+        <title type="html"><![CDATA[课程]]></title>
+        <id>https://pky2006.github.io/2d.io/ke-cheng/</id>
+        <link href="https://pky2006.github.io/2d.io/ke-cheng/">
+        </link>
+        <updated>2021-02-01T09:48:11.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p><a href="https://docs.qq.com/sheet/DVnlEZWJPVFRWUnF0" title="【腾讯文档】每日学业事项">【腾讯文档】每日学业事项</a></p>
+</li>
+<li>
+<p>校历</p>
+<ul>
+<li><a href="https://github.com/pky2006/2d.io/blob/File/%E8%AA%B2%E7%A8%8B/20-21_calendar_revised25sep2020.pdf" title="2d.io/20-21_calendar_revised25sep2020.pdf at File · pky2006/2d.io">Github</a></li>
+<li><a href="https://vchk123-my.sharepoint.com/:b:/g/personal/vc08932_cloud_valtorta_edu_hk/EWFnShLhw7ZGpWOzIi8J4NwBcjl1amigPWYY8O3c1-JoFw?e=XtB98h" title="Onedrive">Onedrive</a></li>
+</ul>
+</li>
+<li>
+<p>课程表</p>
+<ul>
+<li><a href="https://github.com/pky2006/2d.io/blob/File/%E8%AA%B2%E7%A8%8B/2D_%E4%B8%8A%E8%AA%B2%E6%99%82%E9%96%93%E8%A1%A8.pdf" title="2d.io/2D_上課時間表.pdf at File · pky2006/2d.io">Github</a></li>
+<li><a href="https://vchk123-my.sharepoint.com/:b:/g/personal/vc08932_cloud_valtorta_edu_hk/EeDX8gwp975IuWLF9oRvdQUBXlXcTzGQBZYZxACLDm8pPA?e=qubtDh" title="Onedrive">Onedrive</a></li>
+</ul>
+</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用指南💯]]></title>
         <id>https://pky2006.github.io/2d.io/userguide/</id>
@@ -41,14 +68,15 @@
 <p>欢迎来到 2D 班的网站呀，很高兴遇见你！🤝</p>
 </blockquote>
 <h2 id="关于本站">🏠 关于本站</h2>
-<pre><code>这个网站用于分享 VC 2D班的学习材料。
-</code></pre>
+<p>这个网站用于分享 VC 2D班的学习材料。</p>
 <h2 id="联系我呀">📬 联系我呀</h2>
 <p>你可以通過 pky2006@foxmail.com 聯繫我。<br>
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1qy_o7e4saW_v72juJanp-i1ubs" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a></p>
 <h2 id="声明">🛑声明</h2>
-<pre><code>此网站只代表编辑的意见，不代表任何其他机构、个人、学校、组织。
-此网站的文件仅用于学习研究只用，请勿二次传播或用于商业用途。</code></pre>
+<p>此网站只代表编辑的意见，不代表任何其他机构、个人、学校、组织。</p>
+<h2 id="版权声明">版权声明</h2>
+<p>此网站采用<a href="https://github.com/pky2006/2d.io/blob/main/LICENSE" title="2d.io/LICENSE at main · pky2006/2d.io">Creative Commons Zero v1.0 Universal</a>，对于原创文件，你可以个人或商业使用、修改、分发，但不承担赔偿责任，不允许进行商标使用、专利使用和用于担保。具体细节可在此了解：<a href="https://github.com/pky2006/2d.io/blob/main/LICENSE" title="2d.io/LICENSE at main · pky2006/2d.io">Creative Commons Zero v1.0 Universal</a></p>
+<p>此网站非原创的文件仅用于学习研究只用，请勿二次传播或用于商业用途。</p>
 ]]></content>
     </entry>
 </feed>
