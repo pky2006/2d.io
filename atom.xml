@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-02T01:24:58.363Z</updated>
+    <updated>2021-02-02T01:28:15.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -17,6 +17,7 @@
         </link>
         <updated>2021-02-01T09:48:11.000Z</updated>
         <content type="html"><![CDATA[<h2 id="功课表">功课表</h2>
+<h3 id="今日要交以明天1200为界1200过后为明天要交">今日要交（以明天12:00为界，12:00过后为明天要交）</h3>
 <table>
 <thead>
 <tr>
@@ -32,6 +33,22 @@
 <tr>
 <td>Maths CW</td>
 <td style="text-align:center">TMR 8:00a.m.</td>
+</tr>
+<tr>
+<td>CL Project PPT</td>
+<td style="text-align:center">4/2</td>
+</tr>
+<tr>
+<td>Home E plan of cooking （下半班）</td>
+<td style="text-align:center">5/2</td>
+</tr>
+<tr>
+<td>硬笔书法</td>
+<td style="text-align:center">5/2</td>
+</tr>
+<tr>
+<td>自主学习手册</td>
+<td style="text-align:center">复课交</td>
 </tr>
 </tbody>
 </table>
