@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-01T12:34:45.376Z</updated>
+    <updated>2021-02-02T01:23:47.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -16,10 +16,40 @@
         <link href="https://pky2006.github.io/2d.io/lessons/">
         </link>
         <updated>2021-02-01T09:48:11.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>
-<p><a href="https://docs.qq.com/sheet/DVnlEZWJPVFRWUnF0" title="【腾讯文档】每日学业事项">【腾讯文档】每日学业事项</a></p>
-</li>
+        <content type="html"><![CDATA[<h2 id="功课表">功课表</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th style="text-align:center">缴交时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Maths Ex.6.3 CW(7,8,10,11)</td>
+<td style="text-align:center">TMR 8:00a.m.</td>
+</tr>
+<tr>
+<td>Maths CW</td>
+<td style="text-align:center">TMR 8:00a.m.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="提醒">提醒</h2>
+<p>提醒：</p>
+<ol>
+<li>2D班網站https://pky2006.github.io/2d.io</li>
+<li>2月3日(Day 3)體育科(2:25-3:05pm 即hp课)於當日以上時間進入Teams‘F.2 疊杯推廣3/2/2021 1425-1505’。完成後才上SP</li>
+<li>12.00-12.30 10/2 hall 底领取试卷 需穿校服</li>
+<li>VA：prepare visual diary, drawing pencils, a piece of paper, a pair of scissors and a piece of tissue paper.</li>
+</ol>
+<hr>
+<h2 id="外部链接">外部链接</h2>
+<ul>
+<li><a href="https://docs.qq.com/sheet/DVnlEZWJPVFRWUnF0" title="【腾讯文档】每日学业事项">【腾讯文档】每日学业事项</a></li>
+</ul>
+<h2 id="文件">文件</h2>
+<ul>
 <li>
 <p>校历</p>
 <ul>
