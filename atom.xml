@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-02T02:38:49.268Z</updated>
+    <updated>2021-02-02T02:49:41.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -153,7 +153,7 @@
 <p>请在 <a href="https://github.com/pky2006/2d.io/discussions" target="_blank" title="discussions">讨论</a>  与大家讨论。</p>
 <h2 id="订阅">订阅</h2>
 <p>本站提供 RSS 服务，你可以安装一个 RSS 应用程式，具体可参阅：<a href="https://www.appinn.com/?s=rss" target="_blank" title="rss - 小众软件">rss - 小众软件</a>。<br>
-本站的 RSS 服务网址为：<input  style=width:500 onclick="copy()" value="https://pky2006.github.io/2d.io/atom.xml"></p>
+本站的 RSS 服务网址为：<a herf="https://pky2006.github.io/2d.io/atom.xml" target="_blank" title="RSS">https://pky2006.github.io/2d.io/atom.xml</a></p>
 ]]></content>
     </entry>
     <entry>
