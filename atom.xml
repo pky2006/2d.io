@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-02T01:35:50.660Z</updated>
+    <updated>2021-02-02T01:41:11.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -61,8 +61,40 @@
 <td style="text-align:center">5/2</td>
 </tr>
 <tr>
+<td>Maths Book Report</td>
+<td style="text-align:center">9/3</td>
+</tr>
+<tr>
 <td>自主学习手册</td>
 <td style="text-align:center">复课交</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="project">Project</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th style="text-align:center">缴交日期</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>E&amp;RE 第五课汇报组</td>
+<td style="text-align:center">2月</td>
+</tr>
+<tr>
+<td>CL project  汇报</td>
+<td style="text-align:center">4/2</td>
+</tr>
+<tr>
+<td>IH 汇报</td>
+<td style="text-align:center">于考试后</td>
+</tr>
+<tr>
+<td>Maths Book report</td>
+<td style="text-align:center">9/3</td>
 </tr>
 </tbody>
 </table>
