@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-04T03:18:32.120Z</updated>
+    <updated>2021-02-04T03:19:53.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -11,53 +11,15 @@
     <icon>https://pky2006.github.io/2d.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 2D</rights>
     <entry>
-        <title type="html"><![CDATA[Maths Notes]]></title>
-        <id>https://pky2006.github.io/2d.io/maths-notes/</id>
-        <link href="https://pky2006.github.io/2d.io/maths-notes/">
-        </link>
-        <updated>2021-02-03T02:45:02.000Z</updated>
-        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
-<li><a href="#ch7-linearequations-in-two-unknowns">Ch.7 LinearEquations in Two Unknowns</a>
-<ul>
-<li><a href="#71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</a></li>
-</ul>
-</li>
-</ul>
-</p>
-<h1 id="ch7-linearequations-in-two-unknowns">Ch.7 LinearEquations in Two Unknowns</h1>
-<h2 id="71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</h2>
-<ol>
-<li>Determine whether the following pairs are solutions of the equation (eg.  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding="application/x-tex">2x+y=4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> )</li>
-</ol>
-<p>e.g. (4,0)</p>
-<p><strong>Solution:</strong></p>
-<pre><code>Sub. (4,0) into the equation
-L.H.S. = 2(4)+0
-       = 8
-       ≠ R.H.S.
-∵ L.H.S.  ≠ R.H.S.
-∴ (4,0) is not a solution of the equation.
-</code></pre>
-<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>Sub. (4,0) into the equation</mtext><mspace linebreak="newline"></mspace><mtext>L.H.S</mtext><mi mathvariant="normal">.</mi><mo>=</mo><mn>2</mn><mo>(</mo><mn>4</mn><mo>)</mo><mo>+</mo><mn>0</mn><mspace linebreak="newline"></mspace><mo>=</mo><mn>8</mn><mspace linebreak="newline"></mspace><mi mathvariant="normal">≠</mi><mi>R</mi><mi mathvariant="normal">.</mi><mi>H</mi><mi mathvariant="normal">.</mi><mi>S</mi><mi mathvariant="normal">.</mi><mspace linebreak="newline"></mspace><mo>∵</mo><mi>L</mi><mi mathvariant="normal">.</mi><mi>H</mi><mi mathvariant="normal">.</mi><mi>S</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">≠</mi><mi>R</mi><mi mathvariant="normal">.</mi><mi>H</mi><mi mathvariant="normal">.</mi><mi>S</mi><mi mathvariant="normal">.</mi><mspace linebreak="newline"></mspace><mo>∴</mo><mo>(</mo><mn>4</mn><mo separator="true">,</mo><mn>0</mn><mo>)</mo><mi>i</mi><mi>s</mi><mi>n</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>s</mi><mi>o</mi><mi>l</mi><mi>u</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mi>o</mi><mi>f</mi><mi>t</mi><mi>h</mi><mi>e</mi><mi>e</mi><mi>q</mi><mi>u</mi><mi>a</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">
-\text{Sub. (4,0) into the equation}\\
-\text{L.H.S}. = 2(4)+0\\
-       = 8\\
-       \neq R.H.S.\\
-∵ L.H.S.  ≠ R.H.S.\\
-∴ (4,0) is not a solution of the equation.
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text"><span class="mord">Sub. (4,0) into the equation</span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text"><span class="mord">L.H.S</span></span><span class="mord">.</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">2</span><span class="mopen">(</span><span class="mord">4</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">8</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mrel"><span class="mrel"><span class="mord"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="rlap"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="inner"><span class="mrel"></span></span><span class="fix"></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.19444em;"><span></span></span></span></span></span></span><span class="mrel">=</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.00773em;">R</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord">.</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∵</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">L</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord">.</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"><span class="mrel"><span class="mord"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="rlap"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="inner"><span class="mrel"></span></span><span class="fix"></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.19444em;"><span></span></span></span></span></span></span><span class="mrel">=</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.00773em;">R</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord">.</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∴</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord">4</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord">0</span><span class="mclose">)</span><span class="mord mathdefault">i</span><span class="mord mathdefault">s</span><span class="mord mathdefault">n</span><span class="mord mathdefault">o</span><span class="mord mathdefault">t</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">u</span><span class="mord mathdefault">t</span><span class="mord mathdefault">i</span><span class="mord mathdefault">o</span><span class="mord mathdefault">n</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mord mathdefault">t</span><span class="mord mathdefault">h</span><span class="mord mathdefault">e</span><span class="mord mathdefault">e</span><span class="mord mathdefault" style="margin-right:0.03588em;">q</span><span class="mord mathdefault">u</span><span class="mord mathdefault">a</span><span class="mord mathdefault">t</span><span class="mord mathdefault">i</span><span class="mord mathdefault">o</span><span class="mord mathdefault">n</span><span class="mord">.</span></span></span></span></p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[课程]]></title>
         <id>https://pky2006.github.io/2d.io/lessons/</id>
         <link href="https://pky2006.github.io/2d.io/lessons/">
         </link>
-        <updated>2021-02-03T02:05:06.000Z</updated>
+        <updated>2021-02-04T03:19:35.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li>
 <ul>
-<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-32-1022-%E6%9B%B4%E6%96%B0">功课表 （3/2 10:22 更新）</a>
+<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-42-1119-%E6%9B%B4%E6%96%B0">功课表 （4/2 11:19 更新）</a>
 <ul>
 <li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4">今日要交</a></li>
 <li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
@@ -71,7 +33,7 @@ L.H.S. = 2(4)+0
 </li>
 </ul>
 </p>
-<h2 id="功课表-32-1022-更新">功课表 （3/2 10:22 更新）</h2>
+<h2 id="功课表-42-1119-更新">功课表 （4/2 11:19 更新）</h2>
 <h3 id="今日要交">今日要交</h3>
 <blockquote>
 <p>以明天12:00为界，12:00过后为明天要交</p>
@@ -192,6 +154,44 @@ L.H.S. = 2(4)+0
 </ul>
 </li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maths Notes]]></title>
+        <id>https://pky2006.github.io/2d.io/maths-notes/</id>
+        <link href="https://pky2006.github.io/2d.io/maths-notes/">
+        </link>
+        <updated>2021-02-03T02:45:02.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#ch7-linearequations-in-two-unknowns">Ch.7 LinearEquations in Two Unknowns</a>
+<ul>
+<li><a href="#71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<h1 id="ch7-linearequations-in-two-unknowns">Ch.7 LinearEquations in Two Unknowns</h1>
+<h2 id="71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</h2>
+<ol>
+<li>Determine whether the following pairs are solutions of the equation (eg.  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding="application/x-tex">2x+y=4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> )</li>
+</ol>
+<p>e.g. (4,0)</p>
+<p><strong>Solution:</strong></p>
+<pre><code>Sub. (4,0) into the equation
+L.H.S. = 2(4)+0
+       = 8
+       ≠ R.H.S.
+∵ L.H.S.  ≠ R.H.S.
+∴ (4,0) is not a solution of the equation.
+</code></pre>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>Sub. (4,0) into the equation</mtext><mspace linebreak="newline"></mspace><mtext>L.H.S</mtext><mi mathvariant="normal">.</mi><mo>=</mo><mn>2</mn><mo>(</mo><mn>4</mn><mo>)</mo><mo>+</mo><mn>0</mn><mspace linebreak="newline"></mspace><mo>=</mo><mn>8</mn><mspace linebreak="newline"></mspace><mi mathvariant="normal">≠</mi><mi>R</mi><mi mathvariant="normal">.</mi><mi>H</mi><mi mathvariant="normal">.</mi><mi>S</mi><mi mathvariant="normal">.</mi><mspace linebreak="newline"></mspace><mo>∵</mo><mi>L</mi><mi mathvariant="normal">.</mi><mi>H</mi><mi mathvariant="normal">.</mi><mi>S</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">≠</mi><mi>R</mi><mi mathvariant="normal">.</mi><mi>H</mi><mi mathvariant="normal">.</mi><mi>S</mi><mi mathvariant="normal">.</mi><mspace linebreak="newline"></mspace><mo>∴</mo><mo>(</mo><mn>4</mn><mo separator="true">,</mo><mn>0</mn><mo>)</mo><mi>i</mi><mi>s</mi><mi>n</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>s</mi><mi>o</mi><mi>l</mi><mi>u</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mi>o</mi><mi>f</mi><mi>t</mi><mi>h</mi><mi>e</mi><mi>e</mi><mi>q</mi><mi>u</mi><mi>a</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">
+\text{Sub. (4,0) into the equation}\\
+\text{L.H.S}. = 2(4)+0\\
+       = 8\\
+       \neq R.H.S.\\
+∵ L.H.S.  ≠ R.H.S.\\
+∴ (4,0) is not a solution of the equation.
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text"><span class="mord">Sub. (4,0) into the equation</span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text"><span class="mord">L.H.S</span></span><span class="mord">.</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">2</span><span class="mopen">(</span><span class="mord">4</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">8</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mrel"><span class="mrel"><span class="mord"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="rlap"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="inner"><span class="mrel"></span></span><span class="fix"></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.19444em;"><span></span></span></span></span></span></span><span class="mrel">=</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.00773em;">R</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord">.</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∵</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">L</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord">.</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"><span class="mrel"><span class="mord"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="rlap"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="inner"><span class="mrel"></span></span><span class="fix"></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.19444em;"><span></span></span></span></span></span></span><span class="mrel">=</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.00773em;">R</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mord">.</span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord">.</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∴</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord">4</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord">0</span><span class="mclose">)</span><span class="mord mathdefault">i</span><span class="mord mathdefault">s</span><span class="mord mathdefault">n</span><span class="mord mathdefault">o</span><span class="mord mathdefault">t</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">u</span><span class="mord mathdefault">t</span><span class="mord mathdefault">i</span><span class="mord mathdefault">o</span><span class="mord mathdefault">n</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mord mathdefault">t</span><span class="mord mathdefault">h</span><span class="mord mathdefault">e</span><span class="mord mathdefault">e</span><span class="mord mathdefault" style="margin-right:0.03588em;">q</span><span class="mord mathdefault">u</span><span class="mord mathdefault">a</span><span class="mord mathdefault">t</span><span class="mord mathdefault">i</span><span class="mord mathdefault">o</span><span class="mord mathdefault">n</span><span class="mord">.</span></span></span></span></p>
 ]]></content>
     </entry>
     <entry>
