@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-03T06:05:58.080Z</updated>
+    <updated>2021-02-04T03:18:32.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -85,12 +85,16 @@ L.H.S. = 2(4)+0
 </thead>
 <tbody>
 <tr>
-<td>Maths Ex.6.4（1-5） CW</td>
+<td>宗教情景讨论工作纸</td>
 <td style="text-align:center">TMR 8:00a.m.</td>
 </tr>
 <tr>
 <td>CL Project PPT</td>
 <td style="text-align:center">4/2 （CL Lessons）</td>
+</tr>
+<tr>
+<td>硬笔书法</td>
+<td style="text-align:center">5/2</td>
 </tr>
 </tbody>
 </table>
@@ -108,14 +112,6 @@ L.H.S. = 2(4)+0
 <td style="text-align:center">5/2</td>
 </tr>
 <tr>
-<td>宗教情景讨论工作纸</td>
-<td style="text-align:center">5/2 （8:00）</td>
-</tr>
-<tr>
-<td>硬笔书法</td>
-<td style="text-align:center">5/2</td>
-</tr>
-<tr>
 <td>普通话作业</td>
 <td style="text-align:center">8/2</td>
 </tr>
@@ -126,6 +122,10 @@ L.H.S. = 2(4)+0
 <tr>
 <td>自主学习手册</td>
 <td style="text-align:center">复课交</td>
+</tr>
+<tr>
+<td>VA Cubism and Picasso</td>
+<td style="text-align:center">22/2</td>
 </tr>
 </tbody>
 </table>
