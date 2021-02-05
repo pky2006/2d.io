@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-05T04:19:56.086Z</updated>
+    <updated>2021-02-05T04:46:40.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -535,16 +535,35 @@ CN = Chinese</p>
 <h1 id="ch7-linearequations-in-two-unknowns">Ch.7 LinearEquations in Two Unknowns</h1>
 <h2 id="71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</h2>
 <ol>
-<li>Determine whether the following pairs are solutions of the equation (eg.  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding="application/x-tex">2x+y=4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> )</li>
+<li>（not a solution）</li>
 </ol>
-<p>e.g. (4,0)</p>
+<blockquote>
+<p>Determine whether the following pairs are solutions of the equation (eg.  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding="application/x-tex">2x+y=4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> )<br>
+e.g. (4,0)</p>
+</blockquote>
 <p><strong>Solution:</strong></p>
 <pre><code>Sub. (4,0) into the equation
 L.H.S. = 2(4)+0
-       = 8
-       ≠ R.H.S.
+          = 8
+          ≠ R.H.S.
 ∵ L.H.S.  ≠ R.H.S.
 ∴ (4,0) is not a solution of the equation.
+</code></pre>
+<ol>
+<li>(is a solution)</li>
+</ol>
+<blockquote>
+<p>Determine whether the following pairs are solutions of the equation (eg.  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding="application/x-tex">2x+y=4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> )<br>
+e.g. (3,-2)</p>
+</blockquote>
+<p><strong>Solution:</strong></p>
+<pre><code>Sub. (3,-2) into the equation.
+L.H.S. =2(3)+(-2)
+          =6-2
+          =4
+          =R.H.S.
+∵ L.H.S.  = R.H.S.
+∴ (3,-2) is a solution of the equation.
 </code></pre>
 ]]></content>
     </entry>
