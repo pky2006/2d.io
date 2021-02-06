@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-06T12:50:53.915Z</updated>
+    <updated>2021-02-06T13:07:55.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -18,32 +18,26 @@
         <updated>2021-02-06T12:43:01.000Z</updated>
         <content type="html"><![CDATA[<h1 id="视频">视频</h1>
 <h2 id="bilibili">Bilibili</h2>
+<h3 id="maths">Maths</h3>
 <ul>
-<li><a href="https://www.bilibili.com/video/BV1pp411Z7ap?from=search&seid=9025791878625772341" target="_blank" title="【物理大师】初中物理知识点视频合辑，中考物理复习必备！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</a></li>
 <li><a href="https://www.bilibili.com/video/BV1qb411A7Zz?p=14" target="_blank" title="初中数学 - 初一、初二、初三数学【初中数学总复习】【中考数学总复习】-【基础篇 + 提高篇 -】七年级数学 - 八年级数学 - 九年级数学 - 初一数学 - 初二数学 - 初三数学_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</a></li>
 </ul>
-<h2 id="youtube">YouTube</h2>
-<ul>
-<li><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></li>
-</ul>
-<h1 id="网站">网站</h1>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网上学习资源]]></title>
-        <id>https://pky2006.github.io/2d.io/wang-shang-xue-xi-zi-yuan/</id>
-        <link href="https://pky2006.github.io/2d.io/wang-shang-xue-xi-zi-yuan/">
-        </link>
-        <updated>2021-02-06T12:43:01.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="视频">视频</h1>
-<h2 id="bilibili">Bilibili</h2>
+<h3 id="science">Science</h3>
 <ul>
 <li><a href="https://www.bilibili.com/video/BV1pp411Z7ap?from=search&seid=9025791878625772341" target="_blank" title="【物理大师】初中物理知识点视频合辑，中考物理复习必备！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</a></li>
-<li><a href="https://www.bilibili.com/video/BV1qb411A7Zz?p=14" target="_blank" title="初中数学 - 初一、初二、初三数学【初中数学总复习】【中考数学总复习】-【基础篇 + 提高篇 -】七年级数学 - 八年级数学 - 九年级数学 - 初一数学 - 初二数学 - 初三数学_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</a></li>
 </ul>
+<h3 id="中史">中史</h3>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1Ka4y1j7cS" target="_blank" title="“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！</a></li>
+<li><a href="https://www.bilibili.com/video/BV1LE411N7y8" target="_blank" title="岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！</a></li>
+<li></li>
+</ul>
+<hr>
 <h2 id="youtube">YouTube</h2>
+<h3 id="maths-2">Maths</h3>
 <ul>
 <li><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></li>
+<li></li>
 </ul>
 <h1 id="网站">网站</h1>
 ]]></content>
