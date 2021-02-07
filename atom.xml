@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-06T13:13:55.031Z</updated>
+    <updated>2021-02-07T09:14:10.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://pky2006.github.io/2d.io/learning-material/</id>
         <link href="https://pky2006.github.io/2d.io/learning-material/">
         </link>
-        <updated>2021-02-06T12:43:01.000Z</updated>
+        <updated>2021-02-07T09:14:00.000Z</updated>
         <content type="html"><![CDATA[<h1 id="视频">视频</h1>
 <h2 id="bilibili">Bilibili</h2>
 <h3 id="maths">Maths</h3>
@@ -37,8 +37,14 @@
 <h3 id="maths-2">Maths</h3>
 <ul>
 <li><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></li>
-<li></li>
 </ul>
+<hr>
+<h1 id="文章">文章</h1>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/130227320" target="_blank" title="英语中从句的详细介绍 - 知乎">英语中从句的详细介绍 - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/139924277" target="_blank" title="英语中逗号的使用（comma） - 知乎">英语中逗号的使用（comma） - 知乎</a></li>
+</ul>
+<hr>
 <h1 id="网站">网站</h1>
 <p><strong>如有補充，欢迎在<a href="https://github.com/pky2006/2d.io/issues" target="_blank" target="_blank" title="issue"> issue </a>提出。</strong></p>
 ]]></content>
