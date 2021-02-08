@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-08T06:35:07.242Z</updated>
+    <updated>2021-02-08T06:36:15.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -604,7 +604,7 @@ L.H.S. =2(3)+(-2)
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用指南💯]]></title>
+        <title type="html"><![CDATA[使用指南💯(置頂)]]></title>
         <id>https://pky2006.github.io/2d.io/userguide/</id>
         <link href="https://pky2006.github.io/2d.io/userguide/">
         </link>
