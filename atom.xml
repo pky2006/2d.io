@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-08T06:37:43.227Z</updated>
+    <updated>2021-02-08T06:38:47.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -25,7 +25,7 @@
 <li><a href="#%E5%81%87%E6%9C%9F%E5%8A%9F%E8%AA%B2">假期功課</a></li>
 </ul>
 </li>
-<li><a href="#project">Project</a></li>
+<li><a href="#project-test-dictation">Project/ Test/ Dictation</a></li>
 <li><a href="#%E6%8F%90%E9%86%92">提醒</a></li>
 <li><a href="#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5">外部链接</a></li>
 <li><a href="#%E6%96%87%E4%BB%B6">文件</a></li>
@@ -115,7 +115,7 @@
 </tbody>
 </table>
 <hr>
-<h2 id="project">Project</h2>
+<h2 id="project-test-dictation">Project/ Test/ Dictation</h2>
 <table>
 <thead>
 <tr>
@@ -139,6 +139,10 @@
 <tr>
 <td>Maths Book report</td>
 <td style="text-align:center">9/3</td>
+</tr>
+<tr>
+<td>Eng Dictation</td>
+<td style="text-align:center">19/3</td>
 </tr>
 </tbody>
 </table>
