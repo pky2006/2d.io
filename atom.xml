@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-07T09:14:10.044Z</updated>
+    <updated>2021-02-08T06:35:07.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -11,50 +11,11 @@
     <icon>https://pky2006.github.io/2d.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 2D</rights>
     <entry>
-        <title type="html"><![CDATA[网上学习资源]]></title>
-        <id>https://pky2006.github.io/2d.io/learning-material/</id>
-        <link href="https://pky2006.github.io/2d.io/learning-material/">
-        </link>
-        <updated>2021-02-07T09:14:00.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="视频">视频</h1>
-<h2 id="bilibili">Bilibili</h2>
-<h3 id="maths">Maths</h3>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1qb411A7Zz?p=14" target="_blank" title="初中数学 - 初一、初二、初三数学【初中数学总复习】【中考数学总复习】-【基础篇 + 提高篇 -】七年级数学 - 八年级数学 - 九年级数学 - 初一数学 - 初二数学 - 初三数学_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</a></li>
-</ul>
-<h3 id="science">Science</h3>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1pp411Z7ap?from=search&seid=9025791878625772341" target="_blank" title="【物理大师】初中物理知识点视频合辑，中考物理复习必备！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</a></li>
-</ul>
-<h3 id="中史">中史</h3>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1Ka4y1j7cS" target="_blank" title="“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！</a></li>
-<li><a href="https://www.bilibili.com/video/BV1LE411N7y8" target="_blank" title="岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！</a></li>
-<li></li>
-</ul>
-<hr>
-<h2 id="youtube">YouTube</h2>
-<h3 id="maths-2">Maths</h3>
-<ul>
-<li><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></li>
-</ul>
-<hr>
-<h1 id="文章">文章</h1>
-<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/130227320" target="_blank" title="英语中从句的详细介绍 - 知乎">英语中从句的详细介绍 - 知乎</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/139924277" target="_blank" title="英语中逗号的使用（comma） - 知乎">英语中逗号的使用（comma） - 知乎</a></li>
-</ul>
-<hr>
-<h1 id="网站">网站</h1>
-<p><strong>如有補充，欢迎在<a href="https://github.com/pky2006/2d.io/issues" target="_blank" target="_blank" title="issue"> issue </a>提出。</strong></p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[课程]]></title>
         <id>https://pky2006.github.io/2d.io/lesson/</id>
         <link href="https://pky2006.github.io/2d.io/lesson/">
         </link>
-        <updated>2021-02-05T03:21:55.000Z</updated>
+        <updated>2021-02-08T06:31:26.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-52-1121%E6%9B%B4%E6%96%B0">功课表 （5/2 11:21更新）</a>
 <ul>
@@ -86,28 +47,16 @@
 </thead>
 <tbody>
 <tr>
-<td>PTH WB</td>
-<td style="text-align:center">8/2 8:00a.m.</td>
+<td>Maths CW</td>
+<td style="text-align:center">TMR 8:00</td>
 </tr>
 <tr>
-<td>Eng composition</td>
-<td style="text-align:center">8/2 8:00 a.m.</td>
+<td>Music T2C WS</td>
+<td style="text-align:center">TMR 10:20</td>
 </tr>
 <tr>
-<td>Sci WB Ex.10.2</td>
-<td style="text-align:center">8/2 8:00 a.m.</td>
-</tr>
-<tr>
-<td>Maths HW  Re. Ex.6 (1,2,4)+bonus</td>
-<td style="text-align:center">8/2 8:00 a.m.</td>
-</tr>
-<tr>
-<td>Sci STEM Pre-lesson Task</td>
-<td style="text-align:center">8/2 8:00 a.m.</td>
-</tr>
-<tr>
-<td>Sci Unit 10 WS 1</td>
-<td style="text-align:center">8/2 8:00 a.m.</td>
+<td>Eng Writng</td>
+<td style="text-align:center">TMR 8:00</td>
 </tr>
 </tbody>
 </table>
@@ -155,6 +104,14 @@
 <td>Chapter Test 6</td>
 <td style="text-align:center">After Hoilday</td>
 </tr>
+<tr>
+<td>宗教心靈札記</td>
+<td style="text-align:center">20/2 8:00</td>
+</tr>
+<tr>
+<td>宗教 WS6</td>
+<td style="text-align:center">20/2 23:59</td>
+</tr>
 </tbody>
 </table>
 <hr>
@@ -189,7 +146,7 @@
 <p>提醒：</p>
 <ol>
 <li>
-<p>2月3日(Day 3)體育科(2:25-3:05pm 即hp课)於當日以上時間進入Teams‘F.2 疊杯推廣3/2/2021 1425-1505’。完成後才上SP</p>
+<p>放假後以特別時間表上網課，於 2/3 去學校上課</p>
 </li>
 <li>
 <p>12.00-12.30 10/2 hall 底领取试卷 需穿校服</p>
@@ -220,6 +177,45 @@
 </ul>
 </li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网上学习资源]]></title>
+        <id>https://pky2006.github.io/2d.io/learning-material/</id>
+        <link href="https://pky2006.github.io/2d.io/learning-material/">
+        </link>
+        <updated>2021-02-07T09:14:00.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="视频">视频</h1>
+<h2 id="bilibili">Bilibili</h2>
+<h3 id="maths">Maths</h3>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1qb411A7Zz?p=14" target="_blank" title="初中数学 - 初一、初二、初三数学【初中数学总复习】【中考数学总复习】-【基础篇 + 提高篇 -】七年级数学 - 八年级数学 - 九年级数学 - 初一数学 - 初二数学 - 初三数学_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</a></li>
+</ul>
+<h3 id="science">Science</h3>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1pp411Z7ap?from=search&seid=9025791878625772341" target="_blank" title="【物理大师】初中物理知识点视频合辑，中考物理复习必备！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</a></li>
+</ul>
+<h3 id="中史">中史</h3>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1Ka4y1j7cS" target="_blank" title="“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！</a></li>
+<li><a href="https://www.bilibili.com/video/BV1LE411N7y8" target="_blank" title="岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！</a></li>
+<li></li>
+</ul>
+<hr>
+<h2 id="youtube">YouTube</h2>
+<h3 id="maths-2">Maths</h3>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></li>
+</ul>
+<hr>
+<h1 id="文章">文章</h1>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/130227320" target="_blank" title="英语中从句的详细介绍 - 知乎">英语中从句的详细介绍 - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/139924277" target="_blank" title="英语中逗号的使用（comma） - 知乎">英语中逗号的使用（comma） - 知乎</a></li>
+</ul>
+<hr>
+<h1 id="网站">网站</h1>
+<p><strong>如有補充，欢迎在<a href="https://github.com/pky2006/2d.io/issues" target="_blank" target="_blank" title="issue"> issue </a>提出。</strong></p>
 ]]></content>
     </entry>
     <entry>
@@ -558,7 +554,7 @@ CN = Chinese</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maths Notes]]></title>
+        <title type="html"><![CDATA[Maths ]]></title>
         <id>https://pky2006.github.io/2d.io/maths-notes/</id>
         <link href="https://pky2006.github.io/2d.io/maths-notes/">
         </link>
@@ -572,6 +568,7 @@ CN = Chinese</p>
 </ul>
 </p>
 <h1 id="ch7-linearequations-in-two-unknowns">Ch.7 LinearEquations in Two Unknowns</h1>
+<p><a herf="https://vchk123.sharepoint.com/sites/F2DMATH20-21/Class%20Materials/2B07_Linear_Eqn_in_2_Unknowns_NOTES_v3.0(student).pdf" target="_blank" title="2B07_Linear_Eqn_in_2_Unknowns_NOTES_v3.0(student)">School's Note</a></p>
 <h2 id="71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</h2>
 <ol>
 <li>（not a solution）</li>
