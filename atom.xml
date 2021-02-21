@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-20T04:19:52.277Z</updated>
+    <updated>2021-02-21T09:10:43.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2021-02-20T04:19:38.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
-<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-202-1219-%E6%9B%B4%E6%96%B0">功课表 （20/2 12:19 更新）</a><br>
+<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-212-1709-%E6%9B%B4%E6%96%B0">功课表 （21/2 17:09 更新）</a><br>
 *
 <ul>
 <li><a href="#%E5%81%87%E6%9C%9F%E5%8A%9F%E8%AA%B2">假期功課</a></li>
@@ -31,7 +31,7 @@
 </li>
 </ul>
 </p>
-<h1 id="功课表-202-1219-更新">功课表 （20/2 12:19 更新）</h1>
+<h1 id="功课表-212-1709-更新">功课表 （21/2 17:09 更新）</h1>
 <h3 id="假期功課">假期功課</h3>
 <table>
 <thead>
@@ -74,14 +74,6 @@
 <td style="text-align:center">After Hoilday（与 Teams 公布具体日期）</td>
 </tr>
 <tr>
-<td>宗教心靈札記</td>
-<td style="text-align:center">20/2 8:00（已过期）</td>
-</tr>
-<tr>
-<td><strong>宗教 WS6</strong></td>
-<td style="text-align:center"><strong>20/2 23:59</strong></td>
-</tr>
-<tr>
 <td>VA Cubism and Picasso</td>
 <td style="text-align:center">22/2 8:00</td>
 </tr>
@@ -92,6 +84,14 @@
 <tr>
 <td>普通话飘色工作纸+录音</td>
 <td style="text-align:center">22/2 8:00</td>
+</tr>
+<tr>
+<td>宗教心靈札記</td>
+<td style="text-align:center">20/2 8:00（已过期）</td>
+</tr>
+<tr>
+<td>宗教 WS6</td>
+<td style="text-align:center">20/2 23:59（已过期）</td>
 </tr>
 </tbody>
 </table>
@@ -107,12 +107,7 @@
 <th style="text-align:center">缴交时间</th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>宗教 WS6</td>
-<td style="text-align:center">20/2 23:59</td>
-</tr>
-</tbody>
+<tbody></tbody>
 </table>
 <h2 id="之后要交">之后要交</h2>
 <table>
@@ -143,10 +138,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>IH 汇报</td>
-<td style="text-align:center">于考试后</td>
-</tr>
 <tr>
 <td>Maths Book report</td>
 <td style="text-align:center">9/3</td>
