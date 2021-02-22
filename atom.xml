@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-21T09:10:43.429Z</updated>
+    <updated>2021-02-22T10:18:47.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -15,12 +15,10 @@
         <id>https://pky2006.github.io/2d.io/lesson/</id>
         <link href="https://pky2006.github.io/2d.io/lesson/">
         </link>
-        <updated>2021-02-20T04:19:38.000Z</updated>
+        <updated>2021-02-22T10:18:39.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
-<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-212-1709-%E6%9B%B4%E6%96%B0">功课表 （21/2 17:09 更新）</a><br>
-*
+<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-222-1818-%E6%9B%B4%E6%96%B0">功课表 （22/2 18:18 更新）</a>
 <ul>
-<li><a href="#%E5%81%87%E6%9C%9F%E5%8A%9F%E8%AA%B2">假期功課</a></li>
 <li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4">今日要交</a></li>
 <li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
 <li><a href="#project-test-dictation">Project/ Test/ Dictation</a></li>
@@ -31,70 +29,7 @@
 </li>
 </ul>
 </p>
-<h1 id="功课表-212-1709-更新">功课表 （21/2 17:09 更新）</h1>
-<h3 id="假期功課">假期功課</h3>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th style="text-align:center">缴交日期</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>《爱莲说》课文问答</td>
-<td style="text-align:center">22/2 8:00</td>
-</tr>
-<tr>
-<td>看汉中文网中文练习</td>
-<td style="text-align:center">22/2 8:00</td>
-</tr>
-<tr>
-<td>中文练字</td>
-<td style="text-align:center">22/2 8:00</td>
-</tr>
-<tr>
-<td>中文阅读报告</td>
-<td style="text-align:center">22/2 8:00</td>
-</tr>
-<tr>
-<td>Eng RA U.4 &amp; 11</td>
-<td style="text-align:center">22/2 8:00</td>
-</tr>
-<tr>
-<td>Maths Star Exercise</td>
-<td style="text-align:center">21/2</td>
-</tr>
-<tr>
-<td>Maths TSA Unit 3&amp;6（hand in in PDF form）</td>
-<td style="text-align:center">23/2 9:00</td>
-</tr>
-<tr>
-<td>Chapter Test 6</td>
-<td style="text-align:center">After Hoilday（与 Teams 公布具体日期）</td>
-</tr>
-<tr>
-<td>VA Cubism and Picasso</td>
-<td style="text-align:center">22/2 8:00</td>
-</tr>
-<tr>
-<td>Music 白揽录音</td>
-<td style="text-align:center">22/2 23:59</td>
-</tr>
-<tr>
-<td>普通话飘色工作纸+录音</td>
-<td style="text-align:center">22/2 8:00</td>
-</tr>
-<tr>
-<td>宗教心靈札記</td>
-<td style="text-align:center">20/2 8:00（已过期）</td>
-</tr>
-<tr>
-<td>宗教 WS6</td>
-<td style="text-align:center">20/2 23:59（已过期）</td>
-</tr>
-</tbody>
-</table>
+<h1 id="功课表-222-1818-更新">功课表 （22/2 18:18 更新）</h1>
 <hr>
 <h2 id="今日要交">今日要交</h2>
 <blockquote>
@@ -107,7 +42,12 @@
 <th style="text-align:center">缴交时间</th>
 </tr>
 </thead>
-<tbody></tbody>
+<tbody>
+<tr>
+<td>Music 白攬錄音</td>
+<td style="text-align:center">23:59</td>
+</tr>
+</tbody>
 </table>
 <h2 id="之后要交">之后要交</h2>
 <table>
@@ -119,12 +59,20 @@
 </thead>
 <tbody>
 <tr>
-<td>Maths Book Report</td>
-<td style="text-align:center">9/3</td>
+<td>中文考試試卷一二三簽改</td>
+<td style="text-align:center">26/2</td>
+</tr>
+<tr>
+<td>Cubism (Self-portrait)</td>
+<td style="text-align:center">2/3</td>
 </tr>
 <tr>
 <td>自主学习手册</td>
 <td style="text-align:center">2/3</td>
+</tr>
+<tr>
+<td>Maths Book Report</td>
+<td style="text-align:center">9/3</td>
 </tr>
 </tbody>
 </table>
@@ -175,6 +123,218 @@
 </ul>
 </li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maths ]]></title>
+        <id>https://pky2006.github.io/2d.io/maths-notes/</id>
+        <link href="https://pky2006.github.io/2d.io/maths-notes/">
+        </link>
+        <updated>2021-02-22T10:15:14.000Z</updated>
+        <content type="html"><![CDATA[<p>PDF:<a href="https://github.com/pky2006/2d.io/blob/File/Maths/Maths%20Notes.pdf" target="_blank" title="2d.io/Maths Notes.pdf at File · pky2006/2d.io">Github</a> <a href="https://vchk123-my.sharepoint.com/:b:/g/personal/vc08932_cloud_valtorta_edu_hk/Efntwr5tY1BIpnvRb_ME1-wB9cbrmGPiPgASLCKUmCJq3w?e=FJFDLA" target="_blank" title="Maths Notes">Onedrive</a></p>
+<p><ul class="markdownIt-TOC">
+<li><a href="#ch6-more-about-statistical-diagrams-and-graphs">Ch.6 More about Statistical Diagrams and Graphs</a>
+<ul>
+<li><a href="#61-organization-of-continuous-data">6.1 Organization of Continuous Data</a></li>
+<li><a href="#62-histograms-frequency-polygons-and-frequency-curves">6.2 Histograms, Frequency polygons and Frequency Curves</a>
+<ul>
+<li><a href="#a-histograms">A. Histograms</a>
+<ul>
+<li><a href="#long-questions">Long questions</a></li>
+</ul>
+</li>
+<li><a href="#c-frequency-curves">C. Frequency Curves</a>
+<ul>
+<li><a href="#long-questions-2">Long questions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#63-cumulative-frequency-polygons-and-cumulative-frequency-curves">6.3 Cumulative Frequency Polygons and Cumulative Frequency Curves</a>
+<ul>
+<li><a href="#a-cumulative-frequency-tables">A. Cumulative Frequency Tables</a></li>
+<li><a href="#b-cumulative-frequency-polygons">B. Cumulative Frequency Polygons</a></li>
+<li><a href="#d-percentiles-quartiles-and-median">D. Percentiles, Quartiles and Median</a>
+<ul>
+<li><a href="#long-questions-3">Long questions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#64-abuses-of-statistics">6.4 Abuses of Statistics</a><br>
+*
+<ul>
+<li><a href="#rules">Rules:</a></li>
+<li><a href="#long-questions-4">Long questions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#ch7-linear-equations-in-two-unknowns">Ch.7 Linear Equations in Two Unknowns</a>
+<ul>
+<li><a href="#71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<h1 id="ch6-more-about-statistical-diagrams-and-graphs">Ch.6 More about Statistical Diagrams and Graphs</h1>
+<p><strong>Discrete data</strong>:数据<strong>有固定间隔</strong>，比如数量的间隔就是1；</p>
+<p><strong>Continuous data</strong> :数据<strong>无固定间隔</strong>，比如量度长度，间隔并无固定，似乎量度工具的精确度。</p>
+<h2 id="61-organization-of-continuous-data">6.1 Organization of Continuous Data</h2>
+<ul>
+<li>
+<p>Class limits</p>
+<ul>
+<li>lower class limit ：范围内最低</li>
+<li>upper class limit：范围内最高</li>
+</ul>
+</li>
+<li>
+<p>Class Mark</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mi>l</mi><mi>o</mi><mi>w</mi><mi>e</mi><mi>r</mi><mtext> </mtext><mi>c</mi><mi>l</mi><mi>a</mi><mi>s</mi><mi>s</mi><mtext> </mtext><mi>l</mi><mi>i</mi><mi>m</mi><mi>i</mi><mi>t</mi><mo>+</mo><mi>u</mi><mi>p</mi><mi>p</mi><mi>e</mi><mi>r</mi><mtext> </mtext><mi>c</mi><mi>l</mi><mi>a</mi><mi>s</mi><mi>s</mi><mtext> </mtext><mi>l</mi><mi>i</mi><mi>m</mi><mi>i</mi><mi>t</mi></mrow><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">\frac{lower\,class\,limit+upper\,class\,limit} {2}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.0574399999999997em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.02691em;">w</span><span class="mord mathdefault">e</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">i</span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">t</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathdefault">u</span><span class="mord mathdefault">p</span><span class="mord mathdefault">p</span><span class="mord mathdefault">e</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">i</span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></p>
+</li>
+<li>
+<p>Class boundaries</p>
+<ul>
+<li>halfway points that separate any two consecutive class interval  分隔任意两个连续类间隔的中点（正式定义）</li>
+<li>lower class boundary = 最后加个5，前面一个数-1</li>
+<li>upper class boundary= 最后加个5</li>
+</ul>
+</li>
+<li>
+<p>Class width (any two class intervals)</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>u</mi><mi>p</mi><mi>p</mi><mi>e</mi><mi>r</mi><mtext> </mtext><mi>c</mi><mi>l</mi><mi>a</mi><mi>s</mi><mi>s</mi><mtext> </mtext><mi>b</mi><mi>o</mi><mi>u</mi><mi>n</mi><mi>d</mi><mi>a</mi><mi>r</mi><mi>y</mi><mo>−</mo><mi>l</mi><mi>o</mi><mi>w</mi><mi>e</mi><mi>r</mi><mtext> </mtext><mi>c</mi><mi>l</mi><mi>a</mi><mi>s</mi><mi>s</mi><mtext> </mtext><mi>b</mi><mi>o</mi><mi>u</mi><mi>n</mi><mi>d</mi><mi>a</mi><mi>r</mi><mi>y</mi></mrow><annotation encoding="application/x-tex">upper\,class\,boundary-lower\,class\,boundary
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">u</span><span class="mord mathdefault">p</span><span class="mord mathdefault">p</span><span class="mord mathdefault">e</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">b</span><span class="mord mathdefault">o</span><span class="mord mathdefault">u</span><span class="mord mathdefault">n</span><span class="mord mathdefault">d</span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.02691em;">w</span><span class="mord mathdefault">e</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">b</span><span class="mord mathdefault">o</span><span class="mord mathdefault">u</span><span class="mord mathdefault">n</span><span class="mord mathdefault">d</span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span></span></span></span></span></p>
+</li>
+</ul>
+<h2 id="62-histograms-frequency-polygons-and-frequency-curves">6.2 Histograms, Frequency polygons and Frequency Curves</h2>
+<h3 id="a-histograms">A. Histograms</h3>
+<blockquote>
+<p>present continuous data</p>
+</blockquote>
+<p>width of each bar = class width of that class interval</p>
+<p>height <s>of each bar</s> = frequency <s>of that class interval</s></p>
+<h4 id="long-questions">Long questions</h4>
+<ol>
+<li>
+<p>Q. Find the range of …</p>
+<p>A: The range is</p>
+<p>‘<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>&lt;</mo><mi>u</mi><mi>p</mi><mi>p</mi><mi>e</mi><mi>r</mi><mtext> </mtext><mi>c</mi><mi>l</mi><mi>a</mi><mi>s</mi><mi>s</mi><mtext> </mtext><mi>b</mi><mi>o</mi><mi>u</mi><mi>n</mi><mi>d</mi><mi>a</mi><mi>r</mi><mi>y</mi><mo>&gt;</mo><mo>−</mo><mo>&lt;</mo><mtext> </mtext><mi>l</mi><mi>o</mi><mi>w</mi><mi>e</mi><mi>r</mi><mtext> </mtext><mi>c</mi><mi>l</mi><mi>a</mi><mi>s</mi><mi>s</mi><mtext> </mtext><mi>b</mi><mi>o</mi><mi>u</mi><mi>n</mi><mi>d</mi><mi>a</mi><mi>r</mi><mi>y</mi><mo>&gt;</mo></mrow><annotation encoding="application/x-tex">&lt;upper\,class\,boundary&gt;-&lt;\,lower\,class\,boundary&gt;</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">&lt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">u</span><span class="mord mathdefault">p</span><span class="mord mathdefault">p</span><span class="mord mathdefault">e</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">b</span><span class="mord mathdefault">o</span><span class="mord mathdefault">u</span><span class="mord mathdefault">n</span><span class="mord mathdefault">d</span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&gt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&lt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.02691em;">w</span><span class="mord mathdefault">e</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">b</span><span class="mord mathdefault">o</span><span class="mord mathdefault">u</span><span class="mord mathdefault">n</span><span class="mord mathdefault">d</span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&gt;</span></span></span></span>’</p>
+</li>
+<li>
+<p>Q. Find the greatest possible difference …</p>
+<p>A: Greatest possible difference = <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>&lt;</mo><mi mathvariant="normal">图</mi><mi mathvariant="normal">表</mi><mi mathvariant="normal">中</mi><mi mathvariant="normal">最</mi><mi mathvariant="normal">大</mi><mi mathvariant="normal">的</mi><mtext> </mtext><mi>c</mi><mi>l</mi><mi>a</mi><mi>s</mi><mi>s</mi><mtext> </mtext><mi>b</mi><mi>o</mi><mi>u</mi><mi>n</mi><mi>d</mi><mi>a</mi><mi>r</mi><mi>y</mi><mo>&gt;</mo><mo>−</mo><mo>&lt;</mo><mi mathvariant="normal">图</mi><mi mathvariant="normal">表</mi><mi mathvariant="normal">中</mi><mi mathvariant="normal">最</mi><mi mathvariant="normal">小</mi><mi mathvariant="normal">的</mi><mtext> </mtext><mi>c</mi><mi>l</mi><mi>a</mi><mi>s</mi><mi>s</mi><mtext> </mtext><mi>b</mi><mi>o</mi><mi>u</mi><mi>n</mi><mi>d</mi><mi>a</mi><mi>r</mi><mi>y</mi><mo>&gt;</mo></mrow><annotation encoding="application/x-tex">&lt;图表中最大的\,class\, boundary&gt;- &lt;图表中最小的\,class\,boundary&gt;</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">&lt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord cjk_fallback">图</span><span class="mord cjk_fallback">表</span><span class="mord cjk_fallback">中</span><span class="mord cjk_fallback">最</span><span class="mord cjk_fallback">大</span><span class="mord cjk_fallback">的</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">b</span><span class="mord mathdefault">o</span><span class="mord mathdefault">u</span><span class="mord mathdefault">n</span><span class="mord mathdefault">d</span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&gt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&lt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord cjk_fallback">图</span><span class="mord cjk_fallback">表</span><span class="mord cjk_fallback">中</span><span class="mord cjk_fallback">最</span><span class="mord cjk_fallback">小</span><span class="mord cjk_fallback">的</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">b</span><span class="mord mathdefault">o</span><span class="mord mathdefault">u</span><span class="mord mathdefault">n</span><span class="mord mathdefault">d</span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&gt;</span></span></span></span></p>
+</li>
+</ol>
+<h3 id="c-frequency-curves">C. Frequency Curves</h3>
+<h4 id="long-questions-2">Long questions</h4>
+<ol>
+<li>
+<p>Q. In which … perform better? Explain.</p>
+<p>A. The frequency curve for … lies to the right of the curve for … This means that … get higher … in … than … in general. Thus, … perform better in …</p>
+</li>
+</ol>
+<h2 id="63-cumulative-frequency-polygons-and-cumulative-frequency-curves">6.3 Cumulative Frequency Polygons and Cumulative Frequency Curves</h2>
+<h3 id="a-cumulative-frequency-tables">A. Cumulative Frequency Tables</h3>
+<blockquote>
+<p>refers to the total no. of data which are less than a certain class boundaries</p>
+<p>continuous data can be organized in cumulative frequency table</p>
+</blockquote>
+<h3 id="b-cumulative-frequency-polygons">B. Cumulative Frequency Polygons</h3>
+<p>Rules:</p>
+<ol>
+<li>The trend on the graph never goes down. (The cumulative frequency <strong>never decreases</strong>)</li>
+<li>The cumulative frequency must start from 0</li>
+<li>The last point on the cumulative frequency polygon refers to the <strong>total</strong> of data</li>
+<li>For the point (<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo separator="true">,</mo><mi>y</mi></mrow><annotation encoding="application/x-tex">x,y</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">x</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span></span></span></span>) on the graph, there are <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span></span></span></span> data having values <strong>less than</strong> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>.</li>
+</ol>
+<h3 id="d-percentiles-quartiles-and-median">D. Percentiles, Quartiles and Median</h3>
+<ul>
+<li>25% / <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{4}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">4</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span> = 25<sup>th</sup> percentile / lower quartile</li>
+<li>50% /<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span> = 50<sup>th</sup> percentile / median</li>
+<li>75% /<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow><annotation encoding="application/x-tex">\frac{3}{4}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">4</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">3</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span> = 75<sup>th</sup> percentile / upper quartile</li>
+</ul>
+<h4 id="long-questions-3">Long questions</h4>
+<ol>
+<li>
+<p>Q. What are the lower quartile and upper quartile?</p>
+<p>A.</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>From the graph, the total frequency is AA</mtext><mspace linebreak="newline"></mspace><mtext>The cumulative frequency corresponding to the lower quartile is =AA</mtext><mo>×</mo><mn>25</mn><mspace linebreak="newline"></mspace><mtext>From the graph, the lower quartile =XX （根据上面得出的答案，找出对应数据）</mtext><mspace linebreak="newline"></mspace><mtext>The cumulative frequency corresponding =</mtext><mi>B</mi><mi>B</mi><mo>×</mo><mn>75</mn><mtext>From the graph, the upper quartile = XX（根据上面得出的答案，找出对应数据）</mtext></mrow><annotation encoding="application/x-tex">\text{From the graph, the total frequency is AA}\\
+\text{The cumulative frequency corresponding to the lower quartile is =AA}\times 25%  
+\\
+\text{From the graph, the lower quartile =XX （根据上面得出的答案，找出对应数据）}\\
+\text{The cumulative frequency corresponding =}BB\times75%
+\text{From the graph, the upper quartile = XX（根据上面得出的答案，找出对应数据）}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">From the graph, the total frequency is AA</span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">The cumulative frequency corresponding to the lower quartile is =AA</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span><span class="mord">5</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">From the graph, the lower quartile =XX </span><span class="mord cjk_fallback">（根据上面得出的答案，找出对应数据）</span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">The cumulative frequency corresponding =</span></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">7</span><span class="mord">5</span><span class="mord text"><span class="mord">From the graph, the upper quartile = XX</span><span class="mord cjk_fallback">（根据上面得出的答案，找出对应数据）</span></span></span></span></span></span></p>
+</li>
+</ol>
+<h2 id="64-abuses-of-statistics">6.4 Abuses of Statistics</h2>
+<h4 id="rules">Rules:</h4>
+<ol>
+<li>The use of the axes, such as the scale and the starting value</li>
+<li>The ratio of the sizes of the figures shown in the graph</li>
+<li>The quantities shown either corresponding to
+<ol>
+<li>the total no. of data</li>
+<li>the cumulative frequency</li>
+<li>the percentage of the total no. of data</li>
+</ol>
+</li>
+</ol>
+<h4 id="long-questions-4">Long questions</h4>
+<ol>
+<li>
+<p>Q. Find the ratio of the height of the last two bars.</p>
+<blockquote>
+<p>Height of bar A =3 cm</p>
+<p>Height of bar B =7 cm</p>
+</blockquote>
+<p>A. $$\text{The required ratio = 3:7}$$</p>
+</li>
+<li>
+<p>Q. How does the graph mislead people?\</p>
+<blockquote>
+<p>Area of bar A =3 cm</p>
+<p>Area of bar B =7 cm</p>
+<p>No. of bar A=150</p>
+<p>No. of bat B=100</p>
+</blockquote>
+<p>A.</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>The ratio of the area of the figure = 3:7</mtext><mspace linebreak="newline"></mspace><mtext>Ratio of the no. of ...</mtext><mspace linebreak="newline"></mspace><mo>=</mo><mn>150</mn><mo>:</mo><mn>100</mn><mspace linebreak="newline"></mspace><mo>=</mo><mn>3</mn><mo>:</mo><mn>2</mn><mspace linebreak="newline"></mspace><mo>∴</mo><mtext>The different in the width of the figures exaggerates the ratio of the actual no. of readers.</mtext></mrow><annotation encoding="application/x-tex">\text{The ratio of the area of the figure = 3:7}
+\\
+\text{Ratio of the no. of ...}\\=150:100\\=3:2\\
+\therefore \text{The different in the width of the figures exaggerates the ratio of the actual no. of readers.}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">The ratio of the area of the figure = 3:7</span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord text"><span class="mord">Ratio of the no. of ...</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">5</span><span class="mord">0</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">:</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">:</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∴</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">The different in the width of the figures exaggerates the ratio of the actual no. of readers.</span></span></span></span></span></span></p>
+</li>
+<li>
+<p>Q. Suggest a way to reduce the misunderstanding caused by the graph.</p>
+<p>A. Redraw the diagrams with same … (e.g. width)</p>
+</li>
+<li>
+<p>(Pie charts) Q. Comment on the following statement.</p>
+<blockquote>
+<p>The amount … is the same as ..</p>
+</blockquote>
+<p>A. Since we don’t know the total …, we cannot compare the amount …</p>
+</li>
+</ol>
+<hr>
+<h1 id="ch7-linear-equations-in-two-unknowns">Ch.7 Linear Equations in Two Unknowns</h1>
+<p><a href="https://vchk123.sharepoint.com/sites/F2DMATH20-21/Class%20Materials/2B07_Linear_Eqn_in_2_Unknowns_NOTES_v3.0(student).pdf" class="pdf" target="_blank" title="2B07_Linear_Eqn_in_2_Unknowns_NOTES_v3.0(student)">School's Note</a></p>
+<h2 id="71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</h2>
+<ol>
+<li>Determine whether the following pairs are solutions of the equation (eg. <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding="application/x-tex">2x+y=4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span>)</li>
+</ol>
+<p>e.g. (4,0)</p>
+<p><strong>Solution:</strong></p>
+<pre><code>Sub. (4,0) into the equation
+L.H.S. = 2(4)+0
+       = 8
+       ≠ R.H.S.
+∵ L.H.S.  ≠ R.H.S.
+∴ (4,0) is not a solution of the equation.
+</code></pre>
 ]]></content>
     </entry>
     <entry>
@@ -549,56 +709,6 @@ CN = Chinese</p>
 </ul>
 <h1 id="time-line">Time Line</h1>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/pky2006/photo/master/%E9%A6%99%E6%B8%AF%E5%8F%B2%20-JP%20attacked%20HK.png" alt="https://raw.githubusercontent.com/pky2006/photo/master/%E9%A6%99%E6%B8%AF%E5%8F%B2%20-JP%20attacked%20HK.png" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maths ]]></title>
-        <id>https://pky2006.github.io/2d.io/maths-notes/</id>
-        <link href="https://pky2006.github.io/2d.io/maths-notes/">
-        </link>
-        <updated>2021-02-03T02:45:02.000Z</updated>
-        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
-<li><a href="#ch7-linearequations-in-two-unknowns">Ch.7 LinearEquations in Two Unknowns</a>
-<ul>
-<li><a href="#71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</a></li>
-</ul>
-</li>
-</ul>
-</p>
-<h1 id="ch7-linearequations-in-two-unknowns">Ch.7 LinearEquations in Two Unknowns</h1>
-<p><a href="https://vchk123.sharepoint.com/sites/F2DMATH20-21/Class%20Materials/2B07_Linear_Eqn_in_2_Unknowns_NOTES_v3.0(student).pdf" class="pdf" target="_blank" title="2B07_Linear_Eqn_in_2_Unknowns_NOTES_v3.0(student)">School's Note</a></p>
-<h2 id="71-linear-equations-in-two-unknowns-and-their-graphs">7.1 Linear Equations in Two Unknowns and Their Graphs</h2>
-<ol>
-<li>（not a solution）</li>
-</ol>
-<blockquote>
-<p>Determine whether the following pairs are solutions of the equation (eg.  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding="application/x-tex">2x+y=4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> )<br>
-e.g. (4,0)</p>
-</blockquote>
-<p><strong>Solution:</strong></p>
-<pre><code>Sub. (4,0) into the equation
-L.H.S. = 2(4)+0
-          = 8
-          ≠ R.H.S.
-∵ L.H.S.  ≠ R.H.S.
-∴ (4,0) is not a solution of the equation.
-</code></pre>
-<ol>
-<li>(is a solution)</li>
-</ol>
-<blockquote>
-<p>Determine whether the following pairs are solutions of the equation (eg.  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding="application/x-tex">2x+y=4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> )<br>
-e.g. (3,-2)</p>
-</blockquote>
-<p><strong>Solution:</strong></p>
-<pre><code>Sub. (3,-2) into the equation.
-L.H.S. =2(3)+(-2)
-          =6-2
-          =4
-          =R.H.S.
-∵ L.H.S.  = R.H.S.
-∴ (3,-2) is a solution of the equation.
-</code></pre>
 ]]></content>
     </entry>
     <entry>
