@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-22T10:20:00.795Z</updated>
+    <updated>2021-02-22T10:29:59.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -260,15 +260,13 @@
 <li>
 <p>Q. What are the lower quartile and upper quartile?</p>
 <p>A.</p>
-<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>From the graph, the total frequency is AA</mtext><mspace linebreak="newline"></mspace><mtext>The cumulative frequency corresponding to the lower quartile is =AA</mtext><mo>×</mo><mn>25</mn><mspace linebreak="newline"></mspace><mtext>From the graph, the lower quartile =XX （根据上面得出的答案，找出对应数据）</mtext><mspace linebreak="newline"></mspace><mtext>The cumulative frequency corresponding =</mtext><mi>B</mi><mi>B</mi><mo>×</mo><mn>75</mn><mtext>From the graph, the upper quartile = XX（根据上面得出的答案，找出对应数据）</mtext></mrow><annotation encoding="application/x-tex">\text{From the graph, the total frequency is AA}\\
-\text{The cumulative frequency corresponding to the lower quartile is =AA}\times 25%  
-\\
-\text{From the graph, the lower quartile =XX （根据上面得出的答案，找出对应数据）}\\
-\text{The cumulative frequency corresponding =}BB\times75%
-\text{From the graph, the upper quartile = XX（根据上面得出的答案，找出对应数据）}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">From the graph, the total frequency is AA</span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">The cumulative frequency corresponding to the lower quartile is =AA</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span><span class="mord">5</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">From the graph, the lower quartile =XX </span><span class="mord cjk_fallback">（根据上面得出的答案，找出对应数据）</span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">The cumulative frequency corresponding =</span></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">7</span><span class="mord">5</span><span class="mord text"><span class="mord">From the graph, the upper quartile = XX</span><span class="mord cjk_fallback">（根据上面得出的答案，找出对应数据）</span></span></span></span></span></span></p>
 </li>
 </ol>
+<pre><code>From the graph, the total frequency is AA
+The cumulative frequency corresponding to the lower quartile is =AA×25
+From the graph, the lower quartile =XX （根据上面得出的答案，找出对应数据）
+The cumulative frequency corresponding =BB×75From the graph, the upper quartile = XX（根据上面得出的答案，找出对应数据）
+</code></pre>
 <h2 id="64-abuses-of-statistics">6.4 Abuses of Statistics</h2>
 <h4 id="rules">Rules:</h4>
 <ol>
