@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-22T10:30:49.916Z</updated>
+    <updated>2021-02-22T10:32:50.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -288,7 +288,7 @@ The cumulative frequency corresponding =BB×75From the graph, the upper quartile
 <p>Height of bar A =3 cm</p>
 <p>Height of bar B =7 cm</p>
 </blockquote>
-<p>A. $$\text{The required ratio = 3:7}$$</p>
+<p>A. <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>The required ratio = 3:7</mtext></mrow><annotation encoding="application/x-tex">\text{The required ratio = 3:7}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">The required ratio = 3:7</span></span></span></span></span></p>
 </li>
 <li>
 <p>Q. How does the graph mislead people?\</p>
