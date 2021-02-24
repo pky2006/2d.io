@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-02-22T10:34:02.178Z</updated>
+    <updated>2021-02-24T09:23:39.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -10,6 +10,156 @@
     <logo>https://pky2006.github.io/2d.io/images/avatar.png</logo>
     <icon>https://pky2006.github.io/2d.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 2D</rights>
+    <entry>
+        <title type="html"><![CDATA[课程]]></title>
+        <id>https://pky2006.github.io/2d.io/lesson/</id>
+        <link href="https://pky2006.github.io/2d.io/lesson/">
+        </link>
+        <updated>2021-02-24T09:23:28.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-242-1723-%E6%9B%B4%E6%96%B0">功课表 （24/2 17:23 更新）</a>
+<ul>
+<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4">今日要交</a></li>
+<li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
+<li><a href="#project-test-dictation">Project/ Test/ Dictation</a></li>
+<li><a href="#%E6%8F%90%E9%86%92">提醒</a></li>
+<li><a href="#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5">外部链接</a></li>
+<li><a href="#%E6%96%87%E4%BB%B6">文件</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<h1 id="功课表-242-1723-更新">功课表 （24/2 17:23 更新）</h1>
+<hr>
+<h2 id="今日要交">今日要交</h2>
+<blockquote>
+<p>以明天12:00为界，12:00过后为明天要交/接着周末的功課</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th style="text-align:center">缴交时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文考試試卷一二三簽改</td>
+<td style="text-align:center">26/2</td>
+</tr>
+</tbody>
+</table>
+<h2 id="之后要交">之后要交</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th style="text-align:center">缴交日期</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cubism (Self-portrait)</td>
+<td style="text-align:center">2/3</td>
+</tr>
+<tr>
+<td>自主学习手册</td>
+<td style="text-align:center">2/3</td>
+</tr>
+<tr>
+<td>Maths Book Report</td>
+<td style="text-align:center">9/3</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="project-test-dictation">Project/ Test/ Dictation</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th style="text-align:center">缴交日期</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Maths Book report</td>
+<td style="text-align:center">9/3</td>
+</tr>
+<tr>
+<td>Eng Dictation</td>
+<td style="text-align:center">19/3</td>
+</tr>
+</tbody>
+</table>
+<h2 id="提醒">提醒</h2>
+<p>提醒：</p>
+<ol>
+<li>放假後以特別時間表上網課，於 2/3 去學校上課</li>
+</ol>
+<hr>
+<h2 id="外部链接">外部链接</h2>
+<ul>
+<li><a href="https://docs.qq.com/sheet/DVnlEZWJPVFRWUnF0?tab=xn8u25" target="_blank" title="【腾讯文档】每日学业事项">【腾讯文档】每日学业事项</a></li>
+</ul>
+<h2 id="文件">文件</h2>
+<ul>
+<li>
+<p>校历</p>
+<ul>
+<li><a href="https://github.com/pky2006/2d.io/blob/File/%E8%AA%B2%E7%A8%8B/20-21_calendar_revised25sep2020.pdf" target="_blank" title="2d.io/20-21_calendar_revised25sep2020.pdf at File · pky2006/2d.io">Github</a></li>
+<li><a href="https://vchk123-my.sharepoint.com/:b:/g/personal/vc08932_cloud_valtorta_edu_hk/EWFnShLhw7ZGpWOzIi8J4NwBcjl1amigPWYY8O3c1-JoFw?e=XtB98h" target="_blank" title="Onedrive">Onedrive</a></li>
+</ul>
+</li>
+<li>
+<p>课程表</p>
+<ul>
+<li><a href="https://github.com/pky2006/2d.io/blob/File/%E8%AA%B2%E7%A8%8B/2D_%E4%B8%8A%E8%AA%B2%E6%99%82%E9%96%93%E8%A1%A8.pdf" target="_blank" title="2d.io/2D_上課時間表.pdf at File · pky2006/2d.io">Github</a></li>
+<li><a href="https://vchk123-my.sharepoint.com/:b:/g/personal/vc08932_cloud_valtorta_edu_hk/EeDX8gwp975IuWLF9oRvdQUBXlXcTzGQBZYZxACLDm8pPA?e=qubtDh" target="_blank" title="Onedrive">Onedrive</a></li>
+</ul>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网上学习资源]]></title>
+        <id>https://pky2006.github.io/2d.io/learning-resource/</id>
+        <link href="https://pky2006.github.io/2d.io/learning-resource/">
+        </link>
+        <updated>2021-02-24T09:22:11.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="视频">视频</h1>
+<h2 id="bilibili">Bilibili</h2>
+<h3 id="maths">Maths</h3>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1qb411A7Zz?p=14" target="_blank" title="初中数学 - 初一、初二、初三数学【初中数学总复习】【中考数学总复习】-【基础篇 + 提高篇 -】七年级数学 - 八年级数学 - 九年级数学 - 初一数学 - 初二数学 - 初三数学_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</a></li>
+</ul>
+<h3 id="science">Science</h3>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1pp411Z7ap?from=search&seid=9025791878625772341" target="_blank" title="【物理大师】初中物理知识点视频合辑，中考物理复习必备！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</a></li>
+</ul>
+<h3 id="中史">中史</h3>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1Ka4y1j7cS" target="_blank" title="“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！</a></li>
+<li><a href="https://www.bilibili.com/video/BV1LE411N7y8" target="_blank" title="岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！</a></li>
+<li><a href="https://www.bilibili.com/video/BV1qk4y1B7Fs" target="_blank" title="【极简历史-通史合集】一个视频搞懂！中国史、越南史、日本史、朝鲜韩国史_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">【极简历史-通史合集】一个视频搞懂！中国史、越南史、日本史、朝鲜韩国史</a></li>
+</ul>
+<hr>
+<h2 id="youtube">YouTube</h2>
+<h3 id="maths-2">Maths</h3>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></li>
+</ul>
+<hr>
+<h1 id="文章">文章</h1>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/130227320" target="_blank" title="英语中从句的详细介绍 - 知乎">英语中从句的详细介绍 - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/139924277" target="_blank" title="英语中逗号的使用（comma） - 知乎">英语中逗号的使用（comma） - 知乎</a></li>
+</ul>
+<hr>
+<h1 id="网站">网站</h1>
+<p><strong>如有補充，欢迎在<a href="https://github.com/pky2006/2d.io/issues" target="_blank" target="_blank" title="issue"> issue </a>提出。</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maths ]]></title>
         <id>https://pky2006.github.io/2d.io/maths-notes/</id>
@@ -221,160 +371,6 @@ L.H.S. = 2(4)+0
 ∵ L.H.S.  ≠ R.H.S.
 ∴ (4,0) is not a solution of the equation.
 </code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[课程]]></title>
-        <id>https://pky2006.github.io/2d.io/lesson/</id>
-        <link href="https://pky2006.github.io/2d.io/lesson/">
-        </link>
-        <updated>2021-02-22T10:33:08.000Z</updated>
-        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
-<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-222-1818-%E6%9B%B4%E6%96%B0">功课表 （22/2 18:18 更新）</a>
-<ul>
-<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4">今日要交</a></li>
-<li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
-<li><a href="#project-test-dictation">Project/ Test/ Dictation</a></li>
-<li><a href="#%E6%8F%90%E9%86%92">提醒</a></li>
-<li><a href="#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5">外部链接</a></li>
-<li><a href="#%E6%96%87%E4%BB%B6">文件</a></li>
-</ul>
-</li>
-</ul>
-</p>
-<h1 id="功课表-222-1818-更新">功课表 （22/2 18:18 更新）</h1>
-<hr>
-<h2 id="今日要交">今日要交</h2>
-<blockquote>
-<p>以明天12:00为界，12:00过后为明天要交/接着周末的功課</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th style="text-align:center">缴交时间</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Music 白攬錄音</td>
-<td style="text-align:center">23:59</td>
-</tr>
-</tbody>
-</table>
-<h2 id="之后要交">之后要交</h2>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th style="text-align:center">缴交日期</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>中文考試試卷一二三簽改</td>
-<td style="text-align:center">26/2</td>
-</tr>
-<tr>
-<td>Cubism (Self-portrait)</td>
-<td style="text-align:center">2/3</td>
-</tr>
-<tr>
-<td>自主学习手册</td>
-<td style="text-align:center">2/3</td>
-</tr>
-<tr>
-<td>Maths Book Report</td>
-<td style="text-align:center">9/3</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h2 id="project-test-dictation">Project/ Test/ Dictation</h2>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th style="text-align:center">缴交日期</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Maths Book report</td>
-<td style="text-align:center">9/3</td>
-</tr>
-<tr>
-<td>Eng Dictation</td>
-<td style="text-align:center">19/3</td>
-</tr>
-</tbody>
-</table>
-<h2 id="提醒">提醒</h2>
-<p>提醒：</p>
-<ol>
-<li>放假後以特別時間表上網課，於 2/3 去學校上課</li>
-</ol>
-<hr>
-<h2 id="外部链接">外部链接</h2>
-<ul>
-<li><a href="https://docs.qq.com/sheet/DVnlEZWJPVFRWUnF0?tab=xn8u25" target="_blank" title="【腾讯文档】每日学业事项">【腾讯文档】每日学业事项</a></li>
-</ul>
-<h2 id="文件">文件</h2>
-<ul>
-<li>
-<p>校历</p>
-<ul>
-<li><a href="https://github.com/pky2006/2d.io/blob/File/%E8%AA%B2%E7%A8%8B/20-21_calendar_revised25sep2020.pdf" target="_blank" title="2d.io/20-21_calendar_revised25sep2020.pdf at File · pky2006/2d.io">Github</a></li>
-<li><a href="https://vchk123-my.sharepoint.com/:b:/g/personal/vc08932_cloud_valtorta_edu_hk/EWFnShLhw7ZGpWOzIi8J4NwBcjl1amigPWYY8O3c1-JoFw?e=XtB98h" target="_blank" title="Onedrive">Onedrive</a></li>
-</ul>
-</li>
-<li>
-<p>课程表</p>
-<ul>
-<li><a href="https://github.com/pky2006/2d.io/blob/File/%E8%AA%B2%E7%A8%8B/2D_%E4%B8%8A%E8%AA%B2%E6%99%82%E9%96%93%E8%A1%A8.pdf" target="_blank" title="2d.io/2D_上課時間表.pdf at File · pky2006/2d.io">Github</a></li>
-<li><a href="https://vchk123-my.sharepoint.com/:b:/g/personal/vc08932_cloud_valtorta_edu_hk/EeDX8gwp975IuWLF9oRvdQUBXlXcTzGQBZYZxACLDm8pPA?e=qubtDh" target="_blank" title="Onedrive">Onedrive</a></li>
-</ul>
-</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网上学习资源]]></title>
-        <id>https://pky2006.github.io/2d.io/learning-material/</id>
-        <link href="https://pky2006.github.io/2d.io/learning-material/">
-        </link>
-        <updated>2021-02-07T09:14:00.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="视频">视频</h1>
-<h2 id="bilibili">Bilibili</h2>
-<h3 id="maths">Maths</h3>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1qb411A7Zz?p=14" target="_blank" title="初中数学 - 初一、初二、初三数学【初中数学总复习】【中考数学总复习】-【基础篇 + 提高篇 -】七年级数学 - 八年级数学 - 九年级数学 - 初一数学 - 初二数学 - 初三数学_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</a></li>
-</ul>
-<h3 id="science">Science</h3>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1pp411Z7ap?from=search&seid=9025791878625772341" target="_blank" title="【物理大师】初中物理知识点视频合辑，中考物理复习必备！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</a></li>
-</ul>
-<h3 id="中史">中史</h3>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1Ka4y1j7cS" target="_blank" title="“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！</a></li>
-<li><a href="https://www.bilibili.com/video/BV1LE411N7y8" target="_blank" title="岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！</a></li>
-<li></li>
-</ul>
-<hr>
-<h2 id="youtube">YouTube</h2>
-<h3 id="maths-2">Maths</h3>
-<ul>
-<li><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></li>
-</ul>
-<hr>
-<h1 id="文章">文章</h1>
-<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/130227320" target="_blank" title="英语中从句的详细介绍 - 知乎">英语中从句的详细介绍 - 知乎</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/139924277" target="_blank" title="英语中逗号的使用（comma） - 知乎">英语中逗号的使用（comma） - 知乎</a></li>
-</ul>
-<hr>
-<h1 id="网站">网站</h1>
-<p><strong>如有補充，欢迎在<a href="https://github.com/pky2006/2d.io/issues" target="_blank" target="_blank" title="issue"> issue </a>提出。</strong></p>
 ]]></content>
     </entry>
     <entry>
