@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-03-01T05:29:34.565Z</updated>
+    <updated>2021-03-01T09:06:05.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -15,9 +15,9 @@
         <id>https://pky2006.github.io/2d.io/lesson/</id>
         <link href="https://pky2006.github.io/2d.io/lesson/">
         </link>
-        <updated>2021-03-01T05:29:04.000Z</updated>
+        <updated>2021-03-01T09:05:52.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
-<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-13-1327-%E6%9B%B4%E6%96%B0">功课表 （1/3 13:27 更新）</a>
+<li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8-13-1705-%E6%9B%B4%E6%96%B0">功课表 （1/3 17:05 更新）</a>
 <ul>
 <li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4">今日要交</a></li>
 <li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
@@ -29,7 +29,7 @@
 </li>
 </ul>
 </p>
-<h1 id="功课表-13-1327-更新">功课表 （1/3 13:27 更新）</h1>
+<h1 id="功课表-13-1705-更新">功课表 （1/3 17:05 更新）</h1>
 <hr>
 <h2 id="今日要交">今日要交</h2>
 <blockquote>
@@ -58,6 +58,14 @@
 <tr>
 <td>Eng Learning Journey</td>
 <td style="text-align:center">TMR 8:00</td>
+</tr>
+<tr>
+<td>下半班准备小组讨论</td>
+<td style="text-align:center">TMR 中文说话课</td>
+</tr>
+<tr>
+<td>GB P. 156-157</td>
+<td style="text-align:center">TMR 8:00、</td>
 </tr>
 </tbody>
 </table>
