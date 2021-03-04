@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-03-03T13:33:06.157Z</updated>
+    <updated>2021-03-04T01:58:15.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://pky2006.github.io/2d.io/images/avatar.png</logo>
     <icon>https://pky2006.github.io/2d.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 2D</rights>
+    <entry>
+        <title type="html"><![CDATA[快捷搜索]]></title>
+        <id>https://pky2006.github.io/2d.io/search/</id>
+        <link href="https://pky2006.github.io/2d.io/search/">
+        </link>
+        <updated>2021-03-04T01:55:55.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p><img src="'https://www.baidu.com/img/baidu_85beaf5496f291521eb75ba38eacbd87.svg'" alt="" loading="lazy"><form action="https://www.baidu.com/s" method="get"><br>
+<input type="search" name="wd"></p>
+</form>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[课程]]></title>
         <id>https://pky2006.github.io/2d.io/lesson/</id>
