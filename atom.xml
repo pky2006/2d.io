@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-03-04T02:07:05.259Z</updated>
+    <updated>2021-03-04T02:09:08.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -20,8 +20,8 @@
 <form action="https://www.baidu.com/s" method="get">
     <input type="search" name="wd">
 </form>
-<p>DuckDuckGo：<form action="https://duckduckgo.com/?q=" method="get"><br>
-<input type="search" ></p>
+<p>DuckDuckGo：<form action="https://duckduckgo.com/" method="get"><br>
+<input type="search" name="?q"></p>
 </form>]]></content>
     </entry>
     <entry>
