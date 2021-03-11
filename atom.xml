@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-03-09T06:09:26.601Z</updated>
+    <updated>2021-03-11T04:15:23.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -15,11 +15,11 @@
         <id>https://pky2006.github.io/2d.io/lesson/</id>
         <link href="https://pky2006.github.io/2d.io/lesson/">
         </link>
-        <updated>2021-03-09T06:08:59.000Z</updated>
+        <updated>2021-03-11T04:14:34.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8">功课表</a>
 <ul>
-<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A493-1408-%E6%9B%B4%E6%96%B0">今日要交（9/3  14:08  更新）</a></li>
+<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4113-1214-%E6%9B%B4%E6%96%B0">今日要交（11/3  12:14  更新）</a></li>
 <li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
 <li><a href="#project-test-dictation">Project/ Test/ Dictation</a></li>
 <li><a href="#%E6%8F%90%E9%86%92">提醒</a></li>
@@ -30,7 +30,7 @@
 </ul>
 </p>
 <h1 id="功课表">功课表</h1>
-<h2 id="今日要交93-1408-更新">今日要交（9/3  14:08  更新）</h2>
+<h2 id="今日要交113-1214-更新">今日要交（11/3  12:14  更新）</h2>
 <blockquote>
 <p>以明天13:00为界，13:00过后为明天要交/接着周末的功課</p>
 </blockquote>
@@ -47,28 +47,12 @@
 <td style="text-align:center">TMR 8:00</td>
 </tr>
 <tr>
-<td>中文作文四</td>
-<td style="text-align:center">TMR 13:00</td>
-</tr>
-<tr>
-<td>VA Cubism</td>
+<td>CL TinkerCAD</td>
 <td style="text-align:center">TMR 8:00</td>
 </tr>
 <tr>
-<td>VA 收 Visual Dairy</td>
-<td style="text-align:center">TMR 13:00</td>
-</tr>
-<tr>
-<td>宗教心靈札記</td>
+<td>Maths WS</td>
 <td style="text-align:center">TMR 8:00</td>
-</tr>
-<tr>
-<td>宗教 WS 8a</td>
-<td style="text-align:center">TMR 8:00</td>
-</tr>
-<tr>
-<td>IH Data Collection Assignment</td>
-<td style="text-align:center">22:00</td>
 </tr>
 </tbody>
 </table>
@@ -90,16 +74,12 @@
 <td style="text-align:center">13/5</td>
 </tr>
 <tr>
-<td>心靈札記 x 手機拍攝比賽</td>
-<td style="text-align:center">11/3 8:00</td>
-</tr>
-<tr>
 <td>RP 英文書封面設計</td>
 <td style="text-align:center">16/4 8:00</td>
 </tr>
 <tr>
-<td>CL TinkerCAD</td>
-<td style="text-align:center">12/3</td>
+<td>宗教 Ws8b - 克己與理想</td>
+<td style="text-align:center">15/3 8:00</td>
 </tr>
 </tbody>
 </table>
@@ -120,6 +100,14 @@
 <tr>
 <td>Eng Dictation</td>
 <td style="text-align:center">19/3</td>
+</tr>
+<tr>
+<td>Maths Ch.6 Test</td>
+<td style="text-align:center">19/3</td>
+</tr>
+<tr>
+<td>中文測驗</td>
+<td style="text-align:center">16/3</td>
 </tr>
 </tbody>
 </table>
