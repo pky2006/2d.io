@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-03-15T09:01:30.324Z</updated>
+    <updated>2021-03-19T10:27:54.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -15,11 +15,11 @@
         <id>https://pky2006.github.io/2d.io/lesson/</id>
         <link href="https://pky2006.github.io/2d.io/lesson/">
         </link>
-        <updated>2021-03-15T03:53:20.000Z</updated>
+        <updated>2021-03-19T10:27:47.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8">功课表</a>
 <ul>
-<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4153-1153-%E6%9B%B4%E6%96%B0">今日要交（15/3  11:53 更新）</a></li>
+<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4193-1827-%E6%9B%B4%E6%96%B0">今日要交（19/3  18:27 更新）</a></li>
 <li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
 <li><a href="#project-test-dictation">Project/ Test/ Dictation</a></li>
 <li><a href="#%E6%8F%90%E9%86%92">提醒</a></li>
@@ -30,7 +30,7 @@
 </ul>
 </p>
 <h1 id="功课表">功课表</h1>
-<h2 id="今日要交153-1153-更新">今日要交（15/3  11:53 更新）</h2>
+<h2 id="今日要交193-1827-更新">今日要交（19/3  18:27 更新）</h2>
 <blockquote>
 <p>以明天13:00为界，13:00过后为明天要交/接着周末的功課</p>
 </blockquote>
@@ -43,36 +43,12 @@
 </thead>
 <tbody>
 <tr>
-<td>Maths Book Report</td>
-<td style="text-align:center">TMR 8:00</td>
+<td>CL TinkerCAD</td>
+<td style="text-align:center">3月22日</td>
 </tr>
 <tr>
-<td>Sci WS 9.1</td>
-<td style="text-align:center">TMR 1:00 (回校交)</td>
-</tr>
-<tr>
-<td>Sci WB 10.7</td>
-<td style="text-align:center">TMR 1:00 (回校交)</td>
-</tr>
-<tr>
-<td>PTH WB 6</td>
-<td style="text-align:center">TMR 8:00</td>
-</tr>
-<tr>
-<td>VA 洗布</td>
-<td style="text-align:center">TMR 1:00 (回校交)</td>
-</tr>
-<tr>
-<td>家長日通告</td>
-<td style="text-align:center">TMR 1:00 (回校交)</td>
-</tr>
-<tr>
-<td>Maths CW</td>
-<td style="text-align:center">TMR 8:00</td>
-</tr>
-<tr>
-<td>Eng Book P.47</td>
-<td style="text-align:center">TMR</td>
+<td>E&amp;RE 三松</td>
+<td style="text-align:center">3月22日</td>
 </tr>
 </tbody>
 </table>
@@ -86,20 +62,32 @@
 </thead>
 <tbody>
 <tr>
-<td>CL TinkerCAD 3</td>
-<td style="text-align:center">22/3 8:00</td>
+<td>PTH 格言</td>
+<td style="text-align:center">3月23日</td>
 </tr>
 <tr>
-<td>ERV</td>
-<td style="text-align:center">13/5</td>
+<td>中文《为学》课后问答</td>
+<td style="text-align:center">3月23日</td>
 </tr>
 <tr>
-<td>RP 英文書封面設計</td>
-<td style="text-align:center">16/4 8:00</td>
+<td>Maths Re Ex. 8 (2,5,11,16)</td>
+<td style="text-align:center">3月23日</td>
 </tr>
 <tr>
-<td>Maths HW （Re. Ex.7 1a, 6, 13, 25, 30）</td>
-<td style="text-align:center">18/9</td>
+<td>诗词小*</td>
+<td style="text-align:center">3月25日</td>
+</tr>
+<tr>
+<td>RP 封面设计</td>
+<td style="text-align:center">4月14日</td>
+</tr>
+<tr>
+<td>ERV (上) 三松</td>
+<td style="text-align:center">5月13日</td>
+</tr>
+<tr>
+<td>作文（议论文）</td>
+<td style="text-align:center">Unknown</td>
 </tr>
 </tbody>
 </table>
@@ -114,27 +102,15 @@
 </thead>
 <tbody>
 <tr>
-<td>Maths Book report</td>
-<td style="text-align:center">9/3</td>
-</tr>
-<tr>
 <td>Eng Dictation</td>
-<td style="text-align:center">19/3</td>
-</tr>
-<tr>
-<td>Maths Ch.6 Test</td>
-<td style="text-align:center">19/3</td>
-</tr>
-<tr>
-<td>中文測驗</td>
-<td style="text-align:center">16/3</td>
+<td style="text-align:center">31/3</td>
 </tr>
 </tbody>
 </table>
 <h2 id="提醒">提醒</h2>
 <p>提醒：</p>
 <ol>
-<li>放假後以特別時間表上網課，於 2/3 去學校上課（特別時間表）</li>
+<li>放假後以特別時間表上網課，於 day 2, 4, 6 去學校上課</li>
 </ol>
 <hr>
 <h2 id="外部链接">外部链接</h2>
@@ -159,6 +135,32 @@
 </li>
 </ul>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IH Project]]></title>
+        <id>https://pky2006.github.io/2d.io/ih-project/</id>
+        <link href="https://pky2006.github.io/2d.io/ih-project/">
+        </link>
+        <updated>2021-03-19T10:19:54.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#%E9%97%AE%E5%8D%B7">✅问卷</a>
+<ul>
+<li><a href="#%E7%AC%AC%E4%BA%8C%E7%BB%84">第二组</a>
+<ul>
+<li><a href="#%E6%81%A9%E4%B8%BB%E6%95%99%E5%AD%A6%E7%94%9F-only">恩主教学生 ONLY</a></li>
+<li><a href="#%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%A3%AB-%E8%80%81%E5%B8%88">校外人士、老师</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</p>
+<h1 id="问卷">✅问卷</h1>
+<h2 id="第二组">第二组</h2>
+<h3 id="恩主教学生-only">恩主教学生 ONLY</h3>
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=JNSY744sTEWpJs6M9YNiILNZJVkj2lNGh444UvLUObBUQk5RRkdLMzlBTE4xQVYzUDBZT1VaRjQxWS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<h3 id="校外人士-老师">校外人士、老师</h3>
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=JNSY744sTEWpJs6M9YNiILNZJVkj2lNGh444UvLUObBUNFBIVTdEQ0dESTNURUY1OVNJMFNCTFdNUy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网上学习资源]]></title>
