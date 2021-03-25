@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io</id>
     <title>2D</title>
-    <updated>2021-03-19T10:29:40.032Z</updated>
+    <updated>2021-03-25T03:55:09.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -15,11 +15,11 @@
         <id>https://pky2006.github.io/2d.io/lesson/</id>
         <link href="https://pky2006.github.io/2d.io/lesson/">
         </link>
-        <updated>2021-03-19T10:27:47.000Z</updated>
+        <updated>2021-03-25T03:54:59.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8">功课表</a>
 <ul>
-<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4193-1827-%E6%9B%B4%E6%96%B0">今日要交（19/3  18:27 更新）</a></li>
+<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4253-1154-%E6%9B%B4%E6%96%B0">今日要交（25/3  11:54 更新）</a></li>
 <li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
 <li><a href="#project-test-dictation">Project/ Test/ Dictation</a></li>
 <li><a href="#%E6%8F%90%E9%86%92">提醒</a></li>
@@ -30,7 +30,7 @@
 </ul>
 </p>
 <h1 id="功课表">功课表</h1>
-<h2 id="今日要交193-1827-更新">今日要交（19/3  18:27 更新）</h2>
+<h2 id="今日要交253-1154-更新">今日要交（25/3  11:54 更新）</h2>
 <blockquote>
 <p>以明天13:00为界，13:00过后为明天要交/接着周末的功課</p>
 </blockquote>
@@ -43,12 +43,24 @@
 </thead>
 <tbody>
 <tr>
-<td>CL TinkerCAD</td>
-<td style="text-align:center">3月22日</td>
+<td>中文詩詞小箋</td>
+<td style="text-align:center">明13:00（Non-CBS）/8:00（CBS）</td>
 </tr>
 <tr>
-<td>E&amp;RE 三松</td>
-<td style="text-align:center">3月22日</td>
+<td>中文作文四植物頌學生評分工作紙</td>
+<td style="text-align:center">TMR 8:00</td>
+</tr>
+<tr>
+<td>中文小测签改</td>
+<td style="text-align:center">TMR 8:00</td>
+</tr>
+<tr>
+<td>Maths CW</td>
+<td style="text-align:center">TMR 8:00</td>
+</tr>
+<tr>
+<td>成绩表家长签名</td>
+<td style="text-align:center">TMR 13:00</td>
 </tr>
 </tbody>
 </table>
@@ -62,32 +74,12 @@
 </thead>
 <tbody>
 <tr>
-<td>PTH 格言</td>
-<td style="text-align:center">3月23日</td>
-</tr>
-<tr>
-<td>中文《为学》课后问答</td>
-<td style="text-align:center">3月23日</td>
-</tr>
-<tr>
-<td>Maths Re Ex. 8 (2,5,11,16)</td>
-<td style="text-align:center">3月23日</td>
-</tr>
-<tr>
-<td>诗词小*</td>
-<td style="text-align:center">3月25日</td>
-</tr>
-<tr>
 <td>RP 封面设计</td>
 <td style="text-align:center">4月14日</td>
 </tr>
 <tr>
-<td>ERV (上) 三松</td>
-<td style="text-align:center">5月13日</td>
-</tr>
-<tr>
-<td>作文（议论文）</td>
-<td style="text-align:center">Unknown</td>
+<td>CL TinkerCAD 4</td>
+<td style="text-align:center">12/4 8:00</td>
 </tr>
 </tbody>
 </table>
@@ -339,9 +331,10 @@
 </li>
 </ol>
 <pre><code>From the graph, the total frequency is AA
-The cumulative frequency corresponding to the lower quartile is =AA×25
+The cumulative frequency corresponding to the lower quartile is =AA×25%
 From the graph, the lower quartile =XX （根据上面得出的答案，找出对应数据）
-The cumulative frequency corresponding =BB×75From the graph, the upper quartile = XX（根据上面得出的答案，找出对应数据）
+The cumulative frequency corresponding =BB×75%
+From the graph, the upper quartile = XX（根据上面得出的答案，找出对应数据）
 </code></pre>
 <h2 id="64-abuses-of-statistics">6.4 Abuses of Statistics</h2>
 <h4 id="rules">Rules:</h4>
@@ -367,7 +360,7 @@ The cumulative frequency corresponding =BB×75From the graph, the upper quartile
 <p>A. <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>The required ratio = 3:7</mtext></mrow><annotation encoding="application/x-tex">\text{The required ratio = 3:7}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord">The required ratio = 3:7</span></span></span></span></span></p>
 </li>
 <li>
-<p>Q. How does the graph mislead people?\</p>
+<p>Q. How does the graph mislead people?</p>
 <blockquote>
 <p>Area of bar A =3 cm</p>
 <p>Area of bar B =7 cm</p>
