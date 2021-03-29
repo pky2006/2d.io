@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io/</id>
     <title>2D</title>
-    <updated>2021-03-25T05:26:34.345Z</updated>
+    <updated>2021-03-29T03:36:11.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io/"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -160,36 +160,30 @@
         <link href="https://pky2006.github.io/2d.io/learning-resource/">
         </link>
         <updated>2021-02-24T09:22:11.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="视频">视频</h1>
-<h2 id="bilibili">Bilibili</h2>
-<h3 id="maths">Maths</h3>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1qb411A7Zz?p=14" target="_blank" title="初中数学 - 初一、初二、初三数学【初中数学总复习】【中考数学总复习】-【基础篇 + 提高篇 -】七年级数学 - 八年级数学 - 九年级数学 - 初一数学 - 初二数学 - 初三数学_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</a></li>
-</ul>
-<h3 id="science">Science</h3>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1pp411Z7ap?from=search&seid=9025791878625772341" target="_blank" title="【物理大师】初中物理知识点视频合辑，中考物理复习必备！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</a></li>
-</ul>
-<h3 id="中史">中史</h3>
+        <content type="html"><![CDATA[<h1 id="maths">Maths</h1>
+<h3 id="初中数学-初一-初二-初三数学-p14-14a-一次方程组上">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</h3>
+<iframe src="//player.bilibili.com/player.html?aid=34904005&bvid=BV1qb411A7Zz&cid=61122542&page=14" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<h3 id="a-hrefhttpswwwyoutubecomchannelucstpg5ld8z36129fgwc1dzg-target_blank-titleidentity-hk-youtubeidentity-hka"><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></h3>
+<h3 id="演繹幾何簡介">演繹幾何簡介</h3>
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2621712/sp/262171200/embedIframeJs/uiconf_id/46688843/partner_id/2621712?iframeembed=true&playerId=kaltura_player&entry_id=0_jhg723jv&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=zh_HK&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_n4y786iw" width="400" height="225" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura 播放器"></iframe>
+<hr>
+<h1 id="science">Science</h1>
+<h3 id="物理大师初中物理知识点视频合辑中考物理复习必备">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</h3>
+<iframe src="//player.bilibili.com/player.html?aid=23434639&bvid=BV1pp411Z7ap&cid=39063711&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<hr>
+<h1 id="中史">中史</h1>
 <ul>
 <li><a href="https://www.bilibili.com/video/BV1Ka4y1j7cS" target="_blank" title="“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！</a></li>
 <li><a href="https://www.bilibili.com/video/BV1LE411N7y8" target="_blank" title="岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！</a></li>
 <li><a href="https://www.bilibili.com/video/BV1qk4y1B7Fs" target="_blank" title="【极简历史-通史合集】一个视频搞懂！中国史、越南史、日本史、朝鲜韩国史_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">【极简历史-通史合集】一个视频搞懂！中国史、越南史、日本史、朝鲜韩国史</a></li>
 </ul>
 <hr>
-<h2 id="youtube">YouTube</h2>
-<h3 id="maths-2">Maths</h3>
-<ul>
-<li><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></li>
-</ul>
-<hr>
-<h1 id="文章">文章</h1>
+<h1 id="english">English</h1>
 <ul>
 <li><a href="https://zhuanlan.zhihu.com/p/130227320" target="_blank" title="英语中从句的详细介绍 - 知乎">英语中从句的详细介绍 - 知乎</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/139924277" target="_blank" title="英语中逗号的使用（comma） - 知乎">英语中逗号的使用（comma） - 知乎</a></li>
 </ul>
 <hr>
-<h1 id="网站">网站</h1>
 <p><strong>如有補充，欢迎在<a href="https://github.com/pky2006/2d.io/issues" target="_blank" target="_blank" title="issue"> issue </a>提出。</strong></p>
 ]]></content>
     </entry>
