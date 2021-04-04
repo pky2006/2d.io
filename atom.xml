@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io/</id>
     <title>2D</title>
-    <updated>2021-03-29T03:52:06.733Z</updated>
+    <updated>2021-04-04T15:07:57.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io/"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -11,68 +11,17 @@
     <icon>https://pky2006.github.io/2d.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 2D</rights>
     <entry>
-        <title type="html"><![CDATA[网上学习资源]]></title>
-        <id>https://pky2006.github.io/2d.io/learning-resource/</id>
-        <link href="https://pky2006.github.io/2d.io/learning-resource/">
-        </link>
-        <updated>2021-03-29T03:38:23.000Z</updated>
-        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
-<li><a href="#maths">Maths</a><br>
-*
-<ul>
-<li><a href="#%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6-%E5%88%9D%E4%B8%80-%E5%88%9D%E4%BA%8C-%E5%88%9D%E4%B8%89%E6%95%B0%E5%AD%A6-p14-14a-%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E4%B8%8A">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</a></li>
-<li><a href="#a-hrefhttpswwwyoutubecomchannelucstpg5ld8z36129fgwc1dzg-target_blank-titleidentity-hk-youtubeidentity-hka"><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></a></li>
-<li><a href="#%E6%BC%94%E7%B9%B9%E5%B9%BE%E4%BD%95%E7%B0%A1%E4%BB%8B">演繹幾何簡介</a></li>
-</ul>
-</li>
-<li><a href="#science">Science</a><br>
-*
-<ul>
-<li><a href="#%E7%89%A9%E7%90%86%E5%A4%A7%E5%B8%88%E5%88%9D%E4%B8%AD%E7%89%A9%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9%E8%A7%86%E9%A2%91%E5%90%88%E8%BE%91%E4%B8%AD%E8%80%83%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A0%E5%BF%85%E5%A4%87">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</a></li>
-</ul>
-</li>
-<li><a href="#%E4%B8%AD%E5%8F%B2">中史</a></li>
-<li><a href="#english">English</a></li>
-</ul>
-</p>
-<h1 id="maths">Maths</h1>
-<h3 id="初中数学-初一-初二-初三数学-p14-14a-一次方程组上">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</h3>
-<iframe src="//player.bilibili.com/player.html?aid=34904005&bvid=BV1qb411A7Zz&cid=61122542&page=14" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="800" height="450"> </iframe>
-<h3 id="a-hrefhttpswwwyoutubecomchannelucstpg5ld8z36129fgwc1dzg-target_blank-titleidentity-hk-youtubeidentity-hka"><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></h3>
-<h3 id="演繹幾何簡介">演繹幾何簡介</h3>
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2621712/sp/262171200/embedIframeJs/uiconf_id/46688843/partner_id/2621712?iframeembed=true&playerId=kaltura_player&entry_id=0_jhg723jv&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=zh_HK&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_n4y786iw" width="800" height="450" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura 播放器"></iframe>
-<hr>
-<h1 id="science">Science</h1>
-<h3 id="物理大师初中物理知识点视频合辑中考物理复习必备">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</h3>
-<iframe src="//player.bilibili.com/player.html?aid=23434639&bvid=BV1pp411Z7ap&cid=39063711&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="800" height="450"> </iframe>
-<hr>
-<h1 id="中史">中史</h1>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1Ka4y1j7cS" target="_blank" title="“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！</a></li>
-<li><a href="https://www.bilibili.com/video/BV1LE411N7y8" target="_blank" title="岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！</a></li>
-<li><a href="https://www.bilibili.com/video/BV1qk4y1B7Fs" target="_blank" title="【极简历史-通史合集】一个视频搞懂！中国史、越南史、日本史、朝鲜韩国史_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">【极简历史-通史合集】一个视频搞懂！中国史、越南史、日本史、朝鲜韩国史</a></li>
-</ul>
-<hr>
-<h1 id="english">English</h1>
-<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/130227320" target="_blank" title="英语中从句的详细介绍 - 知乎">英语中从句的详细介绍 - 知乎</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/139924277" target="_blank" title="英语中逗号的使用（comma） - 知乎">英语中逗号的使用（comma） - 知乎</a></li>
-</ul>
-<hr>
-<p><strong>如有補充，欢迎在<a href="https://github.com/pky2006/2d.io/issues" target="_blank" target="_blank" title="issue"> issue </a>提出。</strong></p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[课程]]></title>
         <id>https://pky2006.github.io/2d.io/lesson/</id>
         <link href="https://pky2006.github.io/2d.io/lesson/">
         </link>
-        <updated>2021-03-25T03:54:59.000Z</updated>
+        <updated>2021-04-04T15:06:53.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8">功课表</a>
 <ul>
-<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A4253-1154-%E6%9B%B4%E6%96%B0">今日要交（25/3  11:54 更新）</a></li>
+<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A444-2306-%E6%9B%B4%E6%96%B0">今日要交（4/4  23:06 更新）</a></li>
 <li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
+<li><a href="#%E5%81%87%E6%9C%9F%E5%8A%9F%E8%AA%B2">假期功課</a></li>
 <li><a href="#project-test-dictation">Project/ Test/ Dictation</a></li>
 <li><a href="#%E6%8F%90%E9%86%92">提醒</a></li>
 <li><a href="#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5">外部链接</a></li>
@@ -82,7 +31,7 @@
 </ul>
 </p>
 <h1 id="功课表">功课表</h1>
-<h2 id="今日要交253-1154-更新">今日要交（25/3  11:54 更新）</h2>
+<h2 id="今日要交44-2306-更新">今日要交（4/4  23:06 更新）</h2>
 <blockquote>
 <p>以明天13:00为界，13:00过后为明天要交/接着周末的功課</p>
 </blockquote>
@@ -93,28 +42,7 @@
 <th style="text-align:center">缴交时间</th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>中文詩詞小箋</td>
-<td style="text-align:center">明13:00（Non-CBS）/8:00（CBS）</td>
-</tr>
-<tr>
-<td>中文作文四植物頌學生評分工作紙</td>
-<td style="text-align:center">TMR 8:00</td>
-</tr>
-<tr>
-<td>中文小测签改</td>
-<td style="text-align:center">TMR 8:00</td>
-</tr>
-<tr>
-<td>Maths CW</td>
-<td style="text-align:center">TMR 8:00</td>
-</tr>
-<tr>
-<td>成绩表家长签名</td>
-<td style="text-align:center">TMR 13:00</td>
-</tr>
-</tbody>
+<tbody></tbody>
 </table>
 <h2 id="之后要交">之后要交</h2>
 <table>
@@ -126,12 +54,55 @@
 </thead>
 <tbody>
 <tr>
-<td>RP 封面设计</td>
-<td style="text-align:center">4月14日</td>
+<td>VA Tie and Dye cushion</td>
+<td style="text-align:center">21/4</td>
 </tr>
 <tr>
-<td>CL TinkerCAD 4</td>
-<td style="text-align:center">12/4 8:00</td>
+<td>中史匯報</td>
+<td style="text-align:center">18/5</td>
+</tr>
+</tbody>
+</table>
+<h2 id="假期功課">假期功課</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th style="text-align:center">缴交日期</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中文閱讀報告</td>
+<td style="text-align:center">12/4</td>
+</tr>
+<tr>
+<td>中文練字</td>
+<td style="text-align:center">12/4</td>
+</tr>
+<tr>
+<td>中文詩詞小箋</td>
+<td style="text-align:center">12/4</td>
+</tr>
+<tr>
+<td>數學 TSA Ch.8&amp;9</td>
+<td style="text-align:center">12/4</td>
+</tr>
+<tr>
+<td>中史閱讀報告和觀影報告</td>
+<td style="text-align:center">12/4</td>
+</tr>
+<tr>
+<td>CL Tinkercad HW 4</td>
+<td style="text-align:center">12/4</td>
+</tr>
+<tr>
+<td>宗教公教報剪報</td>
+<td style="text-align:center">12/4</td>
+</tr>
+<tr>
+<td>RP 英文書籍封面設計</td>
+<td style="text-align:center">14/4</td>
 </tr>
 </tbody>
 </table>
@@ -178,6 +149,65 @@
 </ul>
 </li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网上学习资源]]></title>
+        <id>https://pky2006.github.io/2d.io/learning-resource/</id>
+        <link href="https://pky2006.github.io/2d.io/learning-resource/">
+        </link>
+        <updated>2021-04-04T15:06:26.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#maths">Maths</a><br>
+*
+<ul>
+<li><a href="#%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6-%E5%88%9D%E4%B8%80-%E5%88%9D%E4%BA%8C-%E5%88%9D%E4%B8%89%E6%95%B0%E5%AD%A6-p14-14a-%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E4%B8%8A">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</a></li>
+<li><a href="#a-hrefhttpswwwyoutubecomchannelucstpg5ld8z36129fgwc1dzg-target_blank-titleidentity-hk-youtubeidentity-hka"><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></a></li>
+<li><a href="#%E6%BC%94%E7%B9%B9%E5%B9%BE%E4%BD%95%E7%B0%A1%E4%BB%8B">演繹幾何簡介</a></li>
+</ul>
+</li>
+<li><a href="#science">Science</a><br>
+*
+<ul>
+<li><a href="#%E7%89%A9%E7%90%86%E5%A4%A7%E5%B8%88%E5%88%9D%E4%B8%AD%E7%89%A9%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9%E8%A7%86%E9%A2%91%E5%90%88%E8%BE%91%E4%B8%AD%E8%80%83%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A0%E5%BF%85%E5%A4%87">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</a></li>
+</ul>
+</li>
+<li><a href="#%E4%B8%AD%E5%8F%B2">中史</a><br>
+*
+<ul>
+<li><a href="#%E9%95%BF%E5%9F%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%95%85%E4%BA%8B-%E7%AC%AC%E5%85%AB%E9%9B%86">长城：中国的故事 第八集</a></li>
+<li><a href="#iframe-srcplayerbilibilicomplayerhtmlaid64550545bvidbv114411r7njcid112078831page8-scrollingno-border0-frameborderno-framespacing0-allowfullscreentrue-width800-height450-iframe"><iframe src="//player.bilibili.com/player.html?aid=64550545&bvid=BV114411R7Nj&cid=112078831&page=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="450"> </iframe></a></li>
+</ul>
+</li>
+<li><a href="#english">English</a></li>
+</ul>
+</p>
+<h1 id="maths">Maths</h1>
+<h3 id="初中数学-初一-初二-初三数学-p14-14a-一次方程组上">初中数学 - 初一、初二、初三数学 P14 14A 一次方程（组）（上）</h3>
+<iframe src="//player.bilibili.com/player.html?aid=34904005&bvid=BV1qb411A7Zz&cid=61122542&page=14" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="800" height="450"> </iframe>
+<h3 id="a-hrefhttpswwwyoutubecomchannelucstpg5ld8z36129fgwc1dzg-target_blank-titleidentity-hk-youtubeidentity-hka"><a href="https://www.youtube.com/channel/UCStPG5Ld8Z36129fGwc1DZg" target="_blank" title="IDENTITY HK - YouTube">IDENTITY HK</a></h3>
+<h3 id="演繹幾何簡介">演繹幾何簡介</h3>
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2621712/sp/262171200/embedIframeJs/uiconf_id/46688843/partner_id/2621712?iframeembed=true&playerId=kaltura_player&entry_id=0_jhg723jv&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=zh_HK&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_n4y786iw" width="800" height="450" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura 播放器"></iframe>
+<hr>
+<h1 id="science">Science</h1>
+<h3 id="物理大师初中物理知识点视频合辑中考物理复习必备">【物理大师】初中物理知识点视频合辑，中考物理复习必备！</h3>
+<iframe src="//player.bilibili.com/player.html?aid=23434639&bvid=BV1pp411Z7ap&cid=39063711&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="800" height="450"> </iframe>
+<hr>
+<h1 id="中史">中史</h1>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1Ka4y1j7cS" target="_blank" title="“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！_哔哩哔哩 (゜ - ゜) つロ 干杯～-bilibili">“燕云十六州” 对于北宋意味着什么？它是中原王朝的命门所在！</a></li>
+<li><a href="https://www.bilibili.com/video/BV1LE411N7y8" target="_blank" title="岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">岳飞火力全开，打穿金兵层层防线，但被12道金牌召回！北伐路线！</a></li>
+<li><a href="https://www.bilibili.com/video/BV1qk4y1B7Fs" target="_blank" title="【极简历史-通史合集】一个视频搞懂！中国史、越南史、日本史、朝鲜韩国史_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili">【极简历史-通史合集】一个视频搞懂！中国史、越南史、日本史、朝鲜韩国史</a></li>
+</ul>
+<h3 id="长城中国的故事-第八集">长城：中国的故事 第八集</h3>
+<h2 id="iframe-srcplayerbilibilicomplayerhtmlaid64550545bvidbv114411r7njcid112078831page8-scrollingno-border0-frameborderno-framespacing0-allowfullscreentrue-width800-height450-iframe"><iframe src="//player.bilibili.com/player.html?aid=64550545&bvid=BV114411R7Nj&cid=112078831&page=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="450"> </iframe></h2>
+<h1 id="english">English</h1>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/130227320" target="_blank" title="英语中从句的详细介绍 - 知乎">英语中从句的详细介绍 - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/139924277" target="_blank" title="英语中逗号的使用（comma） - 知乎">英语中逗号的使用（comma） - 知乎</a></li>
+</ul>
+<hr>
+<p><strong>如有補充，欢迎在<a href="https://github.com/pky2006/2d.io/issues" target="_blank" target="_blank" title="issue"> issue </a>提出。</strong></p>
 ]]></content>
     </entry>
     <entry>
