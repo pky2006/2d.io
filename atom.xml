@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pky2006.github.io/2d.io/</id>
     <title>2D</title>
-    <updated>2021-04-07T10:43:05.448Z</updated>
+    <updated>2021-05-06T09:55:29.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pky2006.github.io/2d.io/"/>
     <link rel="self" href="https://pky2006.github.io/2d.io/atom.xml"/>
@@ -15,15 +15,13 @@
         <id>https://pky2006.github.io/2d.io/lesson/</id>
         <link href="https://pky2006.github.io/2d.io/lesson/">
         </link>
-        <updated>2021-04-04T15:06:53.000Z</updated>
+        <updated>2021-05-06T09:55:18.000Z</updated>
         <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li><a href="#%E5%8A%9F%E8%AF%BE%E8%A1%A8">功课表</a>
 <ul>
-<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A444-2306-%E6%9B%B4%E6%96%B0">今日要交（4/4  23:06 更新）</a></li>
+<li><a href="#%E4%BB%8A%E6%97%A5%E8%A6%81%E4%BA%A465-1745-%E6%9B%B4%E6%96%B0">今日要交（6/5  17:45 更新）</a></li>
 <li><a href="#%E4%B9%8B%E5%90%8E%E8%A6%81%E4%BA%A4">之后要交</a></li>
-<li><a href="#%E5%81%87%E6%9C%9F%E5%8A%9F%E8%AA%B2">假期功課</a></li>
 <li><a href="#project-test-dictation">Project/ Test/ Dictation</a></li>
-<li><a href="#%E6%8F%90%E9%86%92">提醒</a></li>
 <li><a href="#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5">外部链接</a></li>
 <li><a href="#%E6%96%87%E4%BB%B6">文件</a></li>
 </ul>
@@ -31,9 +29,9 @@
 </ul>
 </p>
 <h1 id="功课表">功课表</h1>
-<h2 id="今日要交44-2306-更新">今日要交（4/4  23:06 更新）</h2>
+<h2 id="今日要交65-1745-更新">今日要交（6/5  17:45 更新）</h2>
 <blockquote>
-<p>以明天13:00为界，13:00过后为明天要交/接着周末的功課</p>
+<p>以明天8:00为界，8:00过后为明天要交/接着周末的功課</p>
 </blockquote>
 <table>
 <thead>
@@ -42,7 +40,12 @@
 <th style="text-align:center">缴交时间</th>
 </tr>
 </thead>
-<tbody></tbody>
+<tbody>
+<tr>
+<td>宗教心靈小故事</td>
+<td style="text-align:center">TMR 8:00 Online</td>
+</tr>
+</tbody>
 </table>
 <h2 id="之后要交">之后要交</h2>
 <table>
@@ -54,55 +57,48 @@
 </thead>
 <tbody>
 <tr>
-<td>VA Tie and Dye cushion</td>
-<td style="text-align:center">21/4</td>
+<td>IH WS</td>
+<td style="text-align:center">TMR 22:00 Online</td>
+</tr>
+<tr>
+<td>VA Chinese painting : Outline drawing</td>
+<td style="text-align:center">10/5 8:00</td>
+</tr>
+<tr>
+<td>中文《桃花源記》課文問答</td>
+<td style="text-align:center">10/5 8:00</td>
+</tr>
+<tr>
+<td>Maths CW</td>
+<td style="text-align:center">10/5 8:00</td>
+</tr>
+<tr>
+<td>中文《習慣說》課文問答</td>
+<td style="text-align:center">10/5 8:00</td>
+</tr>
+<tr>
+<td>TinkerCAD 7</td>
+<td style="text-align:center">12/5 8:00</td>
+</tr>
+<tr>
+<td>下半班家政帶雞蛋/垃圾袋（二選一）和若干物品</td>
+<td style="text-align:center">17/5</td>
+</tr>
+<tr>
+<td>中史作業46-57</td>
+<td style="text-align:center">18/5 8:00</td>
 </tr>
 <tr>
 <td>中史匯報</td>
-<td style="text-align:center">18/5</td>
-</tr>
-</tbody>
-</table>
-<h2 id="假期功課">假期功課</h2>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th style="text-align:center">缴交日期</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>中文閱讀報告</td>
-<td style="text-align:center">12/4</td>
+<td style="text-align:center">18/5 8:00</td>
 </tr>
 <tr>
-<td>中文練字</td>
-<td style="text-align:center">12/4</td>
+<td>VA Project : Knowing Chinese Painting</td>
+<td style="text-align:center">18/5 8:00 Online</td>
 </tr>
 <tr>
-<td>中文詩詞小箋</td>
-<td style="text-align:center">12/4</td>
-</tr>
-<tr>
-<td>數學 TSA Ch.8&amp;9</td>
-<td style="text-align:center">12/4</td>
-</tr>
-<tr>
-<td>中史閱讀報告和<a href="https://pky2006.github.io/2d.io/learning-resource/#%E9%95%BF%E5%9F%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%95%85%E4%BA%8B-%E7%AC%AC%E5%85%AB%E9%9B%86">觀影報告</a></td>
-<td style="text-align:center">12/4</td>
-</tr>
-<tr>
-<td>CL Tinkercad HW 4</td>
-<td style="text-align:center">12/4</td>
-</tr>
-<tr>
-<td>宗教公教報剪報</td>
-<td style="text-align:center">12/4</td>
-</tr>
-<tr>
-<td>RP 英文書籍封面設計</td>
-<td style="text-align:center">14/4</td>
+<td>RP 書籍主題曲</td>
+<td style="text-align:center">26/5 8:00</td>
 </tr>
 </tbody>
 </table>
@@ -117,16 +113,31 @@
 </thead>
 <tbody>
 <tr>
+<td>中文詩詞默書</td>
+<td style="text-align:center">7/5</td>
+</tr>
+<tr>
+<td>中文《桃花源記》默書</td>
+<td style="text-align:center">10/5</td>
+</tr>
+<tr>
 <td>Eng Dictation</td>
-<td style="text-align:center">31/3</td>
+<td style="text-align:center">12/5</td>
+</tr>
+<tr>
+<td>PTH 測驗</td>
+<td style="text-align:center">12/5</td>
+</tr>
+<tr>
+<td>Sci STEM Project &amp; Test Ch.9</td>
+<td style="text-align:center">13/5</td>
+</tr>
+<tr>
+<td>E&amp;RE Test</td>
+<td style="text-align:center">20/5</td>
 </tr>
 </tbody>
 </table>
-<h2 id="提醒">提醒</h2>
-<p>提醒：</p>
-<ol>
-<li>放假後以特別時間表上網課，於 day 2, 4, 6 去學校上課</li>
-</ol>
 <hr>
 <h2 id="外部链接">外部链接</h2>
 <ul>
